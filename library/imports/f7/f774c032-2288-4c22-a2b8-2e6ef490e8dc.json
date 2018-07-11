@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "redScore",
+    "texture": "f656fc49-71f5-40bd-8998-92899fd9a677",
+    "atlas": "",
+    "rect": [
+      2,
+      1,
+      326,
+      38
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      330,
+      40
+    ]
+  }
+}

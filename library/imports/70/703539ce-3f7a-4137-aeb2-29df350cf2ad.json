@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "treeandbrand",
+    "texture": "cc2ecb4c-cbf2-4dfa-8fe0-66ab654371b2",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      302,
+      731
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      302,
+      731
+    ]
+  }
+}

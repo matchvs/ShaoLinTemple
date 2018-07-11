@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "daodanButtonup",
+    "texture": "db6c28b3-5e31-4624-9f6c-961f9f123f06",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      260,
+      142
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      260,
+      142
+    ]
+  }
+}

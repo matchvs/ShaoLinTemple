@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "tiaoxinlogo",
+    "texture": "35a6b453-d619-4a36-993f-69bb6bcd00bd",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      589,
+      511
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      589,
+      511
+    ]
+  }
+}

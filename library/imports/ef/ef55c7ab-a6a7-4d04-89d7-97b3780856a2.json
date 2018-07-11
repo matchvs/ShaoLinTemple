@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "shutDoor",
+    "texture": "83c40628-84f3-406d-9895-1f552716713a",
+    "atlas": "",
+    "rect": [
+      115,
+      10,
+      139,
+      408
+    ],
+    "offset": [
+      53,
+      22.5
+    ],
+    "originalSize": [
+      263,
+      473
+    ]
+  }
+}

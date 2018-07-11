@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "blueBeating3",
+    "texture": "50c896db-8008-4c63-bc2c-9803af3b7456",
+    "atlas": "",
+    "rect": [
+      22,
+      71,
+      492,
+      498
+    ],
+    "offset": [
+      11,
+      -35.5
+    ],
+    "originalSize": [
+      514,
+      569
+    ]
+  }
+}

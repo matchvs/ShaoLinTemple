@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "redReduction2",
+    "texture": "b997a9a0-f911-4d5b-8349-81520a743c72",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      79,
+      51
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      79,
+      51
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "propaganda",
+    "texture": "ec8e8502-71cf-4183-9b04-f530addbb313",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      199,
+      153
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      199,
+      153
+    ]
+  }
+}

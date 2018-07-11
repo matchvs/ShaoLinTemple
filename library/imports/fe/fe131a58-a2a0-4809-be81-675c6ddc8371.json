@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "redBeingbeaten",
+    "texture": "45abc6fc-3ddf-4ef2-98a8-2b775313e390",
+    "atlas": "",
+    "rect": [
+      144,
+      83,
+      310,
+      518
+    ],
+    "offset": [
+      72,
+      -41
+    ],
+    "originalSize": [
+      454,
+      602
+    ]
+  }
+}

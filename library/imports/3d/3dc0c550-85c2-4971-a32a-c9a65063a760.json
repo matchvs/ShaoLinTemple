@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "redme",
+    "texture": "b697a1ea-85a7-46cf-bc61-1602aef38570",
+    "atlas": "",
+    "rect": [
+      1,
+      0,
+      79,
+      95
+    ],
+    "offset": [
+      0.5,
+      0
+    ],
+    "originalSize": [
+      80,
+      95
+    ]
+  }
+}

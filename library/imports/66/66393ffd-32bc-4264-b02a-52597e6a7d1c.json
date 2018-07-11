@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "redBescold",
+    "texture": "a680aac9-4e4e-4010-a8ec-fe0e94401b06",
+    "atlas": "",
+    "rect": [
+      174,
+      0,
+      272,
+      598
+    ],
+    "offset": [
+      83,
+      2
+    ],
+    "originalSize": [
+      454,
+      602
+    ]
+  }
+}

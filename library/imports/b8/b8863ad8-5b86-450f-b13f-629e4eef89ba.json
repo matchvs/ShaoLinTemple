@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "deseUp",
+    "texture": "06c301e2-27ba-4cc7-9e86-345d392f2a58",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      260,
+      142
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      260,
+      142
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "broom",
+    "texture": "1939e8e7-6cd5-4444-8bd0-ce8c5c00eefc",
+    "atlas": "",
+    "rect": [
+      0,
+      4,
+      158,
+      205
+    ],
+    "offset": [
+      0,
+      -1.5
+    ],
+    "originalSize": [
+      158,
+      210
+    ]
+  }
+}

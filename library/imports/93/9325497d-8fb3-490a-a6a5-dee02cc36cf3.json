@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "redbeating1",
+    "texture": "24725fbe-1484-4513-857a-27a700a7d6fa",
+    "atlas": "",
+    "rect": [
+      118,
+      83,
+      336,
+      518
+    ],
+    "offset": [
+      59,
+      -41
+    ],
+    "originalSize": [
+      454,
+      602
+    ]
+  }
+}

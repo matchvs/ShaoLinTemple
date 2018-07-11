@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "blueBescold",
+    "texture": "b4273dcf-7743-4f76-9969-ad9d821af53a",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      313,
+      565
+    ],
+    "offset": [
+      -100.5,
+      2
+    ],
+    "originalSize": [
+      514,
+      569
+    ]
+  }
+}

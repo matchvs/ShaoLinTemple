@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "blueAdd1",
+    "texture": "5c48d2f6-50cd-47ca-b09f-df4e52498717",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      68,
+      50
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      68,
+      50
+    ]
+  }
+}

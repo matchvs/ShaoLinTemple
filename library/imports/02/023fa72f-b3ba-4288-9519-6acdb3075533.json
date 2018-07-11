@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "blueReduction2",
+    "texture": "db41a888-f36c-4d40-b749-f2c7f4539575",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      79,
+      51
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      79,
+      51
+    ]
+  }
+}

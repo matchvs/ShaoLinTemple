@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "buleme",
+    "texture": "0e1b6150-2a74-4c6a-85d8-2015de75c294",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      80,
+      95
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      80,
+      95
+    ]
+  }
+}

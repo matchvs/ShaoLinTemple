@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "scoreBoard",
+    "texture": "e3fbf2a8-abdd-4b5b-8000-a14220f31b9f",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      548,
+      136
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      548,
+      136
+    ]
+  }
+}

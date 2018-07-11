@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "secondsNunber",
+    "texture": "348dbed1-0a9e-41c1-b134-f2ba68290e37",
+    "atlas": "",
+    "rect": [
+      2,
+      1,
+      326,
+      38
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      330,
+      40
+    ]
+  }
+}

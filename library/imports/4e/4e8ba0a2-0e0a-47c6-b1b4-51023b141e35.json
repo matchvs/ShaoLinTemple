@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "halfopenDoor",
+    "texture": "71e4bfe4-295c-46eb-a955-b4856fc05e62",
+    "atlas": "",
+    "rect": [
+      110,
+      3,
+      144,
+      439
+    ],
+    "offset": [
+      50.5,
+      14
+    ],
+    "originalSize": [
+      263,
+      473
+    ]
+  }
+}

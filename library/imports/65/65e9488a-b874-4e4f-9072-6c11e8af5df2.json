@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "redDese",
+    "texture": "51e5c613-0c96-43a1-906c-6e201549b269",
+    "atlas": "",
+    "rect": [
+      144,
+      83,
+      310,
+      518
+    ],
+    "offset": [
+      72,
+      -41
+    ],
+    "originalSize": [
+      454,
+      602
+    ]
+  }
+}

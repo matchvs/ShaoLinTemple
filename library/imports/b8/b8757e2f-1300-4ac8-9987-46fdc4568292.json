@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "deseDown",
+    "texture": "f72621eb-7997-4529-91ea-0e05dd0496bc",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      260,
+      142
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      260,
+      142
+    ]
+  }
+}

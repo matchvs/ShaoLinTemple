@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "daodanButtondown",
+    "texture": "e52093c1-4dd3-48a3-b8f8-9ec9aba0e908",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      260,
+      142
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      260,
+      142
+    ]
+  }
+}
