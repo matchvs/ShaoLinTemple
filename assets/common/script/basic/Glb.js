@@ -12,7 +12,7 @@ var obj = {
     READY: "ready",
     channel: 'MatchVS',
     platform: 'alpha',
-    IP: "123.207.6.72",
+    IP: "wxrank.matchvs.com",
     PORT: "3010",
 
     gameId: 201365,

@@ -1,6 +1,6 @@
 "use strict";
 cc._RF.push(module, '27c7bfdkgdEMoYQr2pit3ne', 'Glb');
-// basic/Glb.js
+// common/script/basic/Glb.js
 
 "use strict";
 
@@ -18,7 +18,7 @@ var obj = {
     READY: "ready",
     channel: 'MatchVS',
     platform: 'alpha',
-    IP: "123.207.6.72",
+    IP: "wxrank.matchvs.com",
     PORT: "3010",
 
     gameId: 201365,

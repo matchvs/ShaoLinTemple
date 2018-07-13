@@ -481,7 +481,7 @@
       }
     ],
     "_tag": -1,
-    "_active": true,
+    "_active": false,
     "_components": [
       {
         "__id__": 17
@@ -842,7 +842,7 @@
       }
     ],
     "_tag": -1,
-    "_active": true,
+    "_active": false,
     "_components": [
       {
         "__id__": 29
@@ -1376,6 +1376,7 @@
     "_enabled": true,
     "showAnimation": 0,
     "hideAnimation": 0,
+    "isUseMask": false,
     "playerIcons": [
       {
         "__id__": 9

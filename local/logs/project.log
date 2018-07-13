@@ -1,0 +1,327 @@
+2018-07-03T10:10:54.200Z - normal: Load ~/.CocosCreator/settings.json
+2018-07-03T10:10:54.203Z - normal: checking language setting...
+2018-07-03T10:10:54.204Z - normal: Language: zh
+2018-07-03T10:10:54.891Z - success: protocol editor-framework registered
+2018-07-03T10:10:54.891Z - success: protocol app registered
+2018-07-03T10:10:54.891Z - success: protocol theme registered
+2018-07-03T10:10:54.891Z - success: protocol packages registered
+2018-07-03T10:10:54.892Z - success: protocol unpack registerred
+2018-07-03T10:10:54.892Z - success: protocol disable-commonjs registerred
+2018-07-03T10:10:55.109Z - normal: connected!
+2018-07-03T10:10:55.112Z - normal: Check project /Users/mac/MatchVsGames/shaolinTemple
+2018-07-03T10:10:55.113Z - normal: Initializing Cocos2d
+2018-07-03T10:10:55.319Z - normal: Initializing Asset Database
+2018-07-03T10:10:55.348Z - success: protocol uuid registerred
+2018-07-03T10:10:55.348Z - success: protocol db registerred
+2018-07-03T10:10:55.348Z - success: protocol thumbnail registerred
+2018-07-03T10:10:55.349Z - normal: Loading editor/builtin packages
+2018-07-03T10:10:55.375Z - success: anysdk loaded
+2018-07-03T10:10:55.498Z - success: assets loaded
+2018-07-03T10:10:55.501Z - success: builder loaded
+2018-07-03T10:10:55.503Z - success: cocos-analytics loaded
+2018-07-03T10:10:55.507Z - success: console loaded
+2018-07-03T10:10:55.538Z - success: fb-instant-games loaded
+2018-07-03T10:10:55.541Z - success: hierarchy loaded
+2018-07-03T10:10:55.546Z - success: inspector loaded
+2018-07-03T10:10:55.547Z - success: keystore loaded
+2018-07-03T10:10:55.550Z - success: node-library loaded
+2018-07-03T10:10:55.552Z - success: package-asset loaded
+2018-07-03T10:10:55.554Z - success: preferences loaded
+2018-07-03T10:10:55.556Z - success: project-exporter loaded
+2018-07-03T10:10:55.570Z - success: project-importer loaded
+2018-07-03T10:10:55.574Z - success: project-settings loaded
+2018-07-03T10:10:55.579Z - success: ui-kit loaded
+2018-07-03T10:10:55.583Z - success: ui-grid loaded
+2018-07-03T10:10:55.587Z - success: scene loaded
+2018-07-03T10:10:55.588Z - success: sprite-editor loaded
+2018-07-03T10:10:55.592Z - success: store loaded
+2018-07-03T10:10:55.597Z - success: timeline loaded
+2018-07-03T10:10:55.598Z - normal: Loading builtin packages
+2018-07-03T10:10:55.602Z - success: asset-db-debugger loaded
+2018-07-03T10:10:55.603Z - success: color-picker loaded
+2018-07-03T10:10:55.607Z - success: package-manager loaded
+2018-07-03T10:10:55.609Z - success: qqplay-adapter loaded
+2018-07-03T10:10:55.615Z - success: sdkbox loaded
+2018-07-03T10:10:55.619Z - success: tester loaded
+2018-07-03T10:10:55.623Z - success: ui-kit-preview-extra loaded
+2018-07-03T10:10:55.627Z - success: ui-kit-preview loaded
+2018-07-03T10:10:55.630Z - success: ui-tree loaded
+2018-07-03T10:10:55.632Z - success: weapp-adapter loaded
+2018-07-03T10:10:56.490Z - normal: Initializing project /Users/mac/MatchVsGames/shaolinTemple
+2018-07-03T10:10:56.496Z - normal: Loading packages
+2018-07-03T10:10:56.508Z - success: plugin-matchvs loaded
+2018-07-03T10:10:56.508Z - normal: Watching packages
+2018-07-03T10:10:56.619Z - normal: Run Application
+2018-07-03T10:10:57.582Z - success: preview server running at http://localhost:7457
+2018-07-03T10:11:03.357Z - normal: 1.9.2
+2018-07-03T10:11:47.630Z - warn: 找不到微信开发程序版本信息路径 [/Applications/wechatwebdevtools.app/Contents/Resources/app.nw/package.json]。
+2018-07-03T10:11:47.631Z - warn: 微信开发程序版本过低，不能享用所有功能，请尽快升级。
+2018-07-03T10:11:48.035Z - normal: Initializing...
+
+2018-07-03T10:11:48.042Z - normal: idePortFile: /Users/mac/Library/Application Support/微信web开发者工具/Default/.ide
+
+2018-07-03T10:11:48.060Z - normal: IDE server has started, listening on http://127.0.0.1:32079
+initialization finished
+
+2018-07-03T10:11:48.309Z - normal: open IDE success
+
+2018-07-03T10:14:06.293Z - normal: Start building with options : {
+  "androidStudio": true,
+  "apiLevel": "",
+  "appABIs": [],
+  "appKey": "",
+  "appSecret": "",
+  "buildPath": "/Users/mac/MatchVsGames/shaolinTemple/build",
+  "debug": false,
+  "dest": "/Users/mac/MatchVsGames/shaolinTemple/build/web-mobile",
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [],
+  "fb-instant-games": {},
+  "includeAnySDK": false,
+  "includeEruda": false,
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "jailbreakPlatform": false,
+  "md5Cache": true,
+  "mergeStartScene": false,
+  "oauthLoginServer": "",
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.DuckHunt",
+  "platform": "web-mobile",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "privateKey": "",
+  "qqplay": {
+    "orientation": "portrait"
+  },
+  "renderMode": "0",
+  "scenes": [
+    "79146b76-f001-46c3-9f85-5e013f21b436",
+    "117c424d-e9a8-4789-bdd9-05fb745695e1"
+  ],
+  "sourceMaps": false,
+  "startScene": "79146b76-f001-46c3-9f85-5e013f21b436",
+  "template": "link",
+  "title": "temple",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "portrait",
+  "wechatgame": {
+    "REMOTE_SERVER_ROOT": "https://data.tianziyou.com/matchvsGamesRes/shaolintemple",
+    "appid": "wx793199d0ca521154",
+    "orientation": "portrait"
+  },
+  "xxteaKey": "a15e5bec-8ac1-4f",
+  "zipCompressJs": true,
+  "project": "/Users/mac/MatchVsGames/shaolinTemple",
+  "projectName": "temple",
+  "debugBuildWorker": false
+}
+2018-07-03T10:14:06.299Z - normal: Building /Users/mac/MatchVsGames/shaolinTemple
+2018-07-03T10:14:06.299Z - normal: Destination /Users/mac/MatchVsGames/shaolinTemple/build/web-mobile
+2018-07-03T10:14:06.742Z - normal: Delete /Users/mac/MatchVsGames/shaolinTemple/build/web-mobile/**/*
+2018-07-03T10:14:21.833Z - normal: Compiled project javascript file successfully
+2018-07-03T10:14:21.834Z - normal: Start building assets
+2018-07-03T10:14:21.834Z - normal: Start spawn build-worker
+2018-07-03T10:14:23.686Z - normal: Finish spawn build-worker
+2018-07-03T10:14:23.686Z - normal: Start init build-worker
+2018-07-03T10:14:28.538Z - normal: 1.9.2
+2018-07-03T10:14:29.020Z - normal: Finish init build-worker
+2018-07-03T10:14:29.020Z - normal: Start build-assets in worker
+2018-07-03T10:14:30.167Z - warn: The referenced asset used in "db://assets/resources/ui/key_countdown.prefab" is not found, it may have been deleted. Detailed information:
+Used by "Array"
+uuid: "5233d8f0-d161-4483-ab55-49f6849989c2"
+2018-07-03T10:14:31.099Z - normal: Finish build-assets in worker
+2018-07-03T10:14:31.102Z - normal: Finish building assets
+2018-07-03T10:14:31.158Z - normal: Start building raw assets
+2018-07-03T10:14:31.159Z - normal: Start building plugin scripts
+2018-07-03T10:14:34.395Z - normal: Finish building plugin scripts
+2018-07-03T10:14:36.101Z - normal: Finish building raw assets
+2018-07-03T10:14:36.183Z - normal: Generating main.js from /Applications/CocosCreator.app/Contents/Resources/static/build-templates/shares/main.js
+2018-07-03T10:14:36.192Z - normal: Generating html from /Applications/CocosCreator.app/Contents/Resources/static/build-templates/web-mobile/template/index.html
+2018-07-03T10:14:36.346Z - normal: Built to "/Users/mac/MatchVsGames/shaolinTemple/build/web-mobile" successfully
+2018-07-03T10:15:01.640Z - normal: Start building with options : {
+  "androidStudio": true,
+  "apiLevel": "",
+  "appABIs": [],
+  "appKey": "",
+  "appSecret": "",
+  "buildPath": "/Users/mac/MatchVsGames/shaolinTemple/build",
+  "debug": false,
+  "dest": "/Users/mac/MatchVsGames/shaolinTemple/build/web-mobile",
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [],
+  "fb-instant-games": {},
+  "includeAnySDK": false,
+  "includeEruda": false,
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "jailbreakPlatform": false,
+  "md5Cache": true,
+  "mergeStartScene": false,
+  "oauthLoginServer": "",
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.DuckHunt",
+  "platform": "web-mobile",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "privateKey": "",
+  "qqplay": {
+    "orientation": "portrait"
+  },
+  "renderMode": "0",
+  "scenes": [
+    "79146b76-f001-46c3-9f85-5e013f21b436",
+    "117c424d-e9a8-4789-bdd9-05fb745695e1"
+  ],
+  "sourceMaps": false,
+  "startScene": "79146b76-f001-46c3-9f85-5e013f21b436",
+  "template": "link",
+  "title": "temple",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "portrait",
+  "wechatgame": {
+    "REMOTE_SERVER_ROOT": "https://data.tianziyou.com/matchvsGamesRes/shaolintemple",
+    "appid": "wx793199d0ca521154",
+    "orientation": "portrait"
+  },
+  "xxteaKey": "a15e5bec-8ac1-4f",
+  "zipCompressJs": true,
+  "project": "/Users/mac/MatchVsGames/shaolinTemple",
+  "projectName": "temple",
+  "debugBuildWorker": false
+}
+2018-07-03T10:15:01.649Z - normal: Building /Users/mac/MatchVsGames/shaolinTemple
+2018-07-03T10:15:01.649Z - normal: Destination /Users/mac/MatchVsGames/shaolinTemple/build/web-mobile
+2018-07-03T10:15:01.651Z - normal: Delete /Users/mac/MatchVsGames/shaolinTemple/build/web-mobile/**/*
+2018-07-03T10:15:10.518Z - normal: Compiled project javascript file successfully
+2018-07-03T10:15:10.519Z - normal: Start building assets
+2018-07-03T10:15:10.519Z - normal: Start spawn build-worker
+2018-07-03T10:15:11.173Z - normal: Finish spawn build-worker
+2018-07-03T10:15:11.174Z - normal: Start init build-worker
+2018-07-03T10:15:13.236Z - normal: 1.9.2
+2018-07-03T10:15:13.560Z - normal: Finish init build-worker
+2018-07-03T10:15:13.560Z - normal: Start build-assets in worker
+2018-07-03T10:15:14.194Z - warn: The referenced asset used in "db://assets/resources/ui/key_countdown.prefab" is not found, it may have been deleted. Detailed information:
+Used by "Array"
+uuid: "5233d8f0-d161-4483-ab55-49f6849989c2"
+2018-07-03T10:15:14.832Z - normal: Finish build-assets in worker
+2018-07-03T10:15:14.841Z - normal: Finish building assets
+2018-07-03T10:15:14.882Z - normal: Start building raw assets
+2018-07-03T10:15:14.883Z - normal: Start building plugin scripts
+2018-07-03T10:15:16.663Z - normal: Finish building plugin scripts
+2018-07-03T10:15:16.801Z - normal: Finish building raw assets
+2018-07-03T10:15:16.874Z - normal: Generating main.js from /Applications/CocosCreator.app/Contents/Resources/static/build-templates/shares/main.js
+2018-07-03T10:15:16.881Z - normal: Generating html from /Applications/CocosCreator.app/Contents/Resources/static/build-templates/web-mobile/template/index.html
+2018-07-03T10:15:17.091Z - normal: Built to "/Users/mac/MatchVsGames/shaolinTemple/build/web-mobile" successfully
+2018-07-03T10:17:56.591Z - normal: Start building with options : {
+  "androidStudio": true,
+  "apiLevel": "",
+  "appABIs": [],
+  "appKey": "",
+  "appSecret": "",
+  "buildPath": "/Users/mac/MatchVsGames/shaolinTemple/build",
+  "debug": false,
+  "dest": "/Users/mac/MatchVsGames/shaolinTemple/build/wechatgame",
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [],
+  "fb-instant-games": {},
+  "includeAnySDK": false,
+  "includeEruda": false,
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "jailbreakPlatform": false,
+  "md5Cache": true,
+  "mergeStartScene": false,
+  "oauthLoginServer": "",
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.DuckHunt",
+  "platform": "wechatgame",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "privateKey": "",
+  "qqplay": {
+    "orientation": "portrait"
+  },
+  "renderMode": "0",
+  "scenes": [
+    "79146b76-f001-46c3-9f85-5e013f21b436",
+    "117c424d-e9a8-4789-bdd9-05fb745695e1"
+  ],
+  "sourceMaps": false,
+  "startScene": "79146b76-f001-46c3-9f85-5e013f21b436",
+  "template": "link",
+  "title": "temple",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "portrait",
+  "wechatgame": {
+    "REMOTE_SERVER_ROOT": "https://data.tianziyou.com/matchvsGamesRes/shaolintemple",
+    "appid": "wx793199d0ca521154",
+    "orientation": "portrait"
+  },
+  "xxteaKey": "a15e5bec-8ac1-4f",
+  "zipCompressJs": true,
+  "project": "/Users/mac/MatchVsGames/shaolinTemple",
+  "projectName": "temple",
+  "debugBuildWorker": false
+}
+2018-07-03T10:17:56.600Z - normal: Building /Users/mac/MatchVsGames/shaolinTemple
+2018-07-03T10:17:56.600Z - normal: Destination /Users/mac/MatchVsGames/shaolinTemple/build/wechatgame
+2018-07-03T10:17:56.601Z - normal: Delete /Users/mac/MatchVsGames/shaolinTemple/build/wechatgame/**/*
+2018-07-03T10:18:06.007Z - normal: Compiled project javascript file successfully
+2018-07-03T10:18:06.007Z - normal: Start building assets
+2018-07-03T10:18:06.007Z - normal: Start spawn build-worker
+2018-07-03T10:18:06.632Z - normal: Finish spawn build-worker
+2018-07-03T10:18:06.632Z - normal: Start init build-worker
+2018-07-03T10:18:08.547Z - normal: 1.9.2
+2018-07-03T10:18:08.854Z - normal: Finish init build-worker
+2018-07-03T10:18:08.854Z - normal: Start build-assets in worker
+2018-07-03T10:18:09.444Z - warn: The referenced asset used in "db://assets/resources/ui/key_countdown.prefab" is not found, it may have been deleted. Detailed information:
+Used by "Array"
+uuid: "5233d8f0-d161-4483-ab55-49f6849989c2"
+2018-07-03T10:18:10.058Z - normal: Finish build-assets in worker
+2018-07-03T10:18:10.062Z - normal: Finish building assets
+2018-07-03T10:18:10.095Z - normal: Start building raw assets
+2018-07-03T10:18:10.096Z - normal: Start building plugin scripts
+2018-07-03T10:18:11.840Z - normal: Finish building plugin scripts
+2018-07-03T10:18:11.977Z - normal: Finish building raw assets
+2018-07-03T10:18:11.980Z - normal: Generating main.js from /Applications/CocosCreator.app/Contents/Resources/static/build-templates/shares/main.js
+2018-07-03T10:18:13.352Z - normal: Built to "/Users/mac/MatchVsGames/shaolinTemple/build/wechatgame" successfully
+2018-07-03T10:18:14.701Z - warn: 找不到微信开发程序版本信息路径 [/Applications/wechatwebdevtools.app/Contents/Resources/app.nw/package.json]。
+2018-07-03T10:18:14.701Z - warn: 微信开发程序版本过低，不能享用所有功能，请尽快升级。
+2018-07-03T10:18:15.140Z - normal: Initializing...
+
+2018-07-03T10:18:15.148Z - normal: idePortFile: /Users/mac/Library/Application Support/微信web开发者工具/Default/.ide
+
+2018-07-03T10:18:15.174Z - normal: IDE server has started, listening on http://127.0.0.1:32079
+initialization finished
+
+2018-07-03T10:18:15.377Z - normal: open IDE success
+
+2018-07-03T10:25:57.900Z - info: shutdown preview server

@@ -1522,12 +1522,12 @@
       "__id__": 39
     },
     "_enabled": true,
-    "transition": 2,
+    "transition": 1,
     "pressedColor": {
       "__type__": "cc.Color",
-      "r": 255,
-      "g": 255,
-      "b": 255,
+      "r": 214,
+      "g": 214,
+      "b": 214,
       "a": 255
     },
     "hoverColor": {
@@ -1560,10 +1560,10 @@
       "__uuid__": "c09c9b73-48f2-4d43-8828-135a8744c16a"
     },
     "_N$pressedSprite": {
-      "__uuid__": "e9ec654c-97a2-4787-9325-e6a10375219a"
+      "__uuid__": "c09c9b73-48f2-4d43-8828-135a8744c16a"
     },
     "pressedSprite": {
-      "__uuid__": "e9ec654c-97a2-4787-9325-e6a10375219a"
+      "__uuid__": "c09c9b73-48f2-4d43-8828-135a8744c16a"
     },
     "_N$hoverSprite": {
       "__uuid__": "e9ec654c-97a2-4787-9325-e6a10375219a"
