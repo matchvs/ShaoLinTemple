@@ -30,10 +30,12 @@
 3. 点击构建,之后点击运行.
 4. 点击运行之后,会自动使用微信开发者工具打开.
 <br>
-注意: 如果点击运行,小游戏自动打开失败,需要手动打开build/wechatgame.
+注意: 如果点击运行,小游戏自动打开失败,需要手动打开build/wechatgame。
+
 ![snipaste20180716_172421.png](./screenshots/snipaste20180716_172421.png)
 
 5. 微信开发者工具打开之后,就可以愉快的玩耍了 
+
 ![snipaste20180716_172602.png](./screenshots/snipaste20180716_172602.png)
 
 6. 发布到微信平台,详细细节查看[微信开发者文档](https://developers.weixin.qq.com/minigame/dev/index.html)
