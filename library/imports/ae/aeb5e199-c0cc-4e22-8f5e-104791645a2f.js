@@ -1,6 +1,6 @@
 "use strict";
 cc._RF.push(module, 'aeb5eGZwMxOIo9eEEeRZFov', 'DataFunc');
-// basic/DataFunc.js
+// common/script/basic/DataFunc.js
 
 "use strict";
 

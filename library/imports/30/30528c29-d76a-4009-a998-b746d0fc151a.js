@@ -1,6 +1,6 @@
 "use strict";
 cc._RF.push(module, '30528wp12pACamYt0bQ/BUa', 'uiPanel');
-// basic/uiPanel.js
+// common/script/basic/uiPanel.js
 
 "use strict";
 

@@ -1,6 +1,6 @@
 "use strict";
 cc._RF.push(module, 'a5d4d0RpP1Mwpu2OZcb21jB', 'MatchvsEngine');
-// basic/MatchvsEngine.js
+// common/script/basic/MatchvsEngine.js
 
 'use strict';
 

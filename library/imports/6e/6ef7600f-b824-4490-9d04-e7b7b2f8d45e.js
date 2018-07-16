@@ -1,6 +1,6 @@
 "use strict";
 cc._RF.push(module, '6ef76APuCREkJ0E57ey+NRe', 'Globals');
-// basic/Globals.js
+// common/script/basic/Globals.js
 
 "use strict";
 

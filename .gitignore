@@ -1,3 +1,4 @@
 temp/
 build/
 packages/plugin-matchvs/matchvs/matchvsnative/
+.vscode/

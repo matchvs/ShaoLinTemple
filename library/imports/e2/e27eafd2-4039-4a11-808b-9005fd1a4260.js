@@ -1,6 +1,6 @@
 "use strict";
 cc._RF.push(module, 'e27ea/SQDlKEYCLkAX9GkJg', 'UIFunc');
-// basic/UIFunc.js
+// common/script/basic/UIFunc.js
 
 "use strict";
 
