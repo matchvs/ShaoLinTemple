@@ -1,155 +1,56 @@
-2018-07-28T02:02:05.138Z - normal: Load ~/.CocosCreator/settings.json
-2018-07-28T02:02:05.147Z - normal: checking language setting...
-2018-07-28T02:02:05.147Z - normal: Language: zh
-2018-07-28T02:02:08.044Z - success: protocol editor-framework registered
-2018-07-28T02:02:08.045Z - success: protocol app registered
-2018-07-28T02:02:08.046Z - success: protocol theme registered
-2018-07-28T02:02:08.046Z - success: protocol packages registered
-2018-07-28T02:02:08.047Z - success: protocol unpack registerred
-2018-07-28T02:02:08.048Z - success: protocol disable-commonjs registerred
-2018-07-28T02:02:08.277Z - normal: connected!
-2018-07-28T02:02:08.280Z - normal: Check project /Users/chenhao/matchvs/ShaoLinTemple/ShaoLinTemple
-2018-07-28T02:02:08.284Z - normal: Initializing Cocos2d
-2018-07-28T02:02:08.827Z - normal: Initializing Asset Database
-2018-07-28T02:02:08.920Z - success: protocol uuid registerred
-2018-07-28T02:02:08.920Z - success: protocol db registerred
-2018-07-28T02:02:08.920Z - success: protocol thumbnail registerred
-2018-07-28T02:02:08.921Z - normal: Loading editor/builtin packages
-2018-07-28T02:02:08.970Z - success: anysdk loaded
-2018-07-28T02:02:09.262Z - success: assets loaded
-2018-07-28T02:02:09.268Z - success: builder loaded
-2018-07-28T02:02:09.275Z - success: cocos-analytics loaded
-2018-07-28T02:02:09.286Z - success: console loaded
-2018-07-28T02:02:09.350Z - success: fb-instant-games loaded
-2018-07-28T02:02:09.359Z - success: hierarchy loaded
-2018-07-28T02:02:09.371Z - success: inspector loaded
-2018-07-28T02:02:09.375Z - success: keystore loaded
-2018-07-28T02:02:09.382Z - success: node-library loaded
-2018-07-28T02:02:09.386Z - success: package-asset loaded
-2018-07-28T02:02:09.393Z - success: preferences loaded
-2018-07-28T02:02:09.401Z - success: project-exporter loaded
-2018-07-28T02:02:09.444Z - success: project-importer loaded
-2018-07-28T02:02:09.451Z - success: project-settings loaded
-2018-07-28T02:02:09.464Z - success: ui-kit loaded
-2018-07-28T02:02:09.476Z - success: ui-grid loaded
-2018-07-28T02:02:09.484Z - success: scene loaded
-2018-07-28T02:02:09.488Z - success: sprite-editor loaded
-2018-07-28T02:02:09.503Z - success: store loaded
-2018-07-28T02:02:09.517Z - success: timeline loaded
-2018-07-28T02:02:09.518Z - normal: Loading builtin packages
-2018-07-28T02:02:09.529Z - success: asset-db-debugger loaded
-2018-07-28T02:02:09.532Z - success: color-picker loaded
-2018-07-28T02:02:09.543Z - success: package-manager loaded
-2018-07-28T02:02:09.546Z - success: qqplay-adapter loaded
-2018-07-28T02:02:09.711Z - success: sdkbox loaded
-2018-07-28T02:02:09.727Z - normal: last time update is in one day
-2018-07-28T02:02:09.728Z - success: tester loaded
-2018-07-28T02:02:09.735Z - success: ui-kit-preview-extra loaded
-2018-07-28T02:02:09.745Z - success: ui-kit-preview loaded
-2018-07-28T02:02:09.759Z - success: ui-tree loaded
-2018-07-28T02:02:09.763Z - success: weapp-adapter loaded
-2018-07-28T02:02:12.703Z - normal: Initializing project /Users/chenhao/matchvs/ShaoLinTemple/ShaoLinTemple
-2018-07-28T02:02:12.712Z - normal: Loading packages
-2018-07-28T02:02:12.763Z - success: plugin-matchvs loaded
-2018-07-28T02:02:12.763Z - normal: Watching packages
-2018-07-28T02:02:13.128Z - normal: Run Application
-2018-07-28T02:03:36.101Z - success: preview server running at http://localhost:7458
-2018-07-28T02:04:08.846Z - normal: 1.9.3
-2018-07-28T02:16:59.516Z - normal: connected!
-2018-07-28T02:17:09.509Z - normal: 1.9.3
-2018-07-28T02:18:26.987Z - normal: Start building with options : {
-  "androidStudio": true,
-  "apiLevel": "",
-  "appABIs": [],
-  "appKey": "",
-  "appSecret": "",
-  "buildPath": "/Users/chenhao/matchvs/ShaoLinTemple/ShaoLinTemple/build",
-  "debug": false,
-  "dest": "/Users/chenhao/matchvs/ShaoLinTemple/ShaoLinTemple/build/wechatgame",
-  "encryptJs": true,
-  "excludeScenes": [],
-  "excludedModules": [],
-  "fb-instant-games": {},
-  "includeAnySDK": false,
-  "includeEruda": false,
-  "includeSDKBox": false,
-  "inlineSpriteFrames": true,
-  "inlineSpriteFrames_native": true,
-  "jailbreakPlatform": false,
-  "md5Cache": true,
-  "mergeStartScene": false,
-  "oauthLoginServer": "",
-  "optimizeHotUpdate": false,
-  "orientation": {
-    "landscapeLeft": true,
-    "landscapeRight": true,
-    "portrait": false,
-    "upsideDown": false
-  },
-  "packageName": "org.cocos2d.DuckHunt",
-  "platform": "wechatgame",
-  "previewHeight": "720",
-  "previewWidth": "1280",
-  "privateKey": "",
-  "qqplay": {
-    "REMOTE_SERVER_ROOT": "",
-    "orientation": "portrait"
-  },
-  "renderMode": "0",
-  "scenes": [
-    "79146b76-f001-46c3-9f85-5e013f21b436",
-    "117c424d-e9a8-4789-bdd9-05fb745695e1"
-  ],
-  "sourceMaps": false,
-  "startScene": "79146b76-f001-46c3-9f85-5e013f21b436",
-  "template": "link",
-  "title": "temple",
-  "useDebugKeystore": true,
-  "vsVersion": "auto",
-  "webOrientation": "portrait",
-  "wechatgame": {
-    "REMOTE_SERVER_ROOT": "https://data.tianziyou.com/matchvsGamesRes/shaolintemple",
-    "appid": "wx793199d0ca521154",
-    "orientation": "portrait"
-  },
-  "xxteaKey": "a15e5bec-8ac1-4f",
-  "zipCompressJs": true,
-  "project": "/Users/chenhao/matchvs/ShaoLinTemple/ShaoLinTemple",
-  "projectName": "temple",
-  "debugBuildWorker": false
-}
-2018-07-28T02:18:26.998Z - normal: Building /Users/chenhao/matchvs/ShaoLinTemple/ShaoLinTemple
-2018-07-28T02:18:26.999Z - normal: Destination /Users/chenhao/matchvs/ShaoLinTemple/ShaoLinTemple/build/wechatgame
-2018-07-28T02:18:28.002Z - normal: Delete /Users/chenhao/matchvs/ShaoLinTemple/ShaoLinTemple/build/wechatgame/**/*
-2018-07-28T02:18:43.190Z - normal: Compiled project javascript file successfully
-2018-07-28T02:18:43.193Z - normal: Start building assets
-2018-07-28T02:18:43.193Z - normal: Start spawn build-worker
-2018-07-28T02:18:44.362Z - normal: Finish spawn build-worker
-2018-07-28T02:18:44.362Z - normal: Start init build-worker
-2018-07-28T02:18:48.354Z - normal: 1.9.3
-2018-07-28T02:18:48.869Z - normal: Finish init build-worker
-2018-07-28T02:18:48.871Z - normal: Start build-assets in worker
-2018-07-28T02:18:50.125Z - warn: The referenced asset used in "db://assets/resources/ui/key_countdown.prefab" is not found, it may have been deleted. Detailed information:
-Used by "Array"
-uuid: "5233d8f0-d161-4483-ab55-49f6849989c2"
-2018-07-28T02:18:51.437Z - normal: Finish build-assets in worker
-2018-07-28T02:18:51.446Z - normal: Finish building assets
-2018-07-28T02:18:51.530Z - normal: Start building raw assets
-2018-07-28T02:18:51.531Z - normal: Start building plugin scripts
-2018-07-28T02:18:54.787Z - normal: Finish building plugin scripts
-2018-07-28T02:18:55.071Z - normal: Finish building raw assets
-2018-07-28T02:18:55.077Z - normal: Generating main.js from /Applications/CocosCreator.app/Contents/Resources/static/build-templates/shares/main.js
-2018-07-28T02:18:57.017Z - normal: Built to "/Users/chenhao/matchvs/ShaoLinTemple/ShaoLinTemple/build/wechatgame" successfully
-2018-07-28T02:19:00.366Z - warn: 找不到微信开发程序版本信息路径 [/Applications/wechatwebdevtools.app/Contents/Resources/app.nw/package.json]。
-2018-07-28T02:19:00.367Z - warn: 微信开发程序版本过低，不能享用所有功能，请尽快升级。
-2018-07-28T02:19:01.630Z - normal: Initializing...
-
-2018-07-28T02:19:01.646Z - normal: idePortFile: /Users/chenhao/Library/Application Support/微信web开发者工具/Default/.ide
-
-2018-07-28T02:19:01.685Z - normal: IDE server has started, listening on http://127.0.0.1:57737
-
-2018-07-28T02:19:01.686Z - normal: initialization finished
-
-2018-07-28T02:19:02.855Z - normal: open IDE success
-
-2018-07-28T02:19:53.503Z - info: shutdown preview server
+2018-08-14T09:11:59.046Z - normal: Load ~/.CocosCreator/settings.json
+2018-08-14T09:11:59.050Z - normal: checking language setting...
+2018-08-14T09:11:59.050Z - normal: Language: zh
+2018-08-14T09:11:59.764Z - success: protocol editor-framework registered
+2018-08-14T09:11:59.765Z - success: protocol app registered
+2018-08-14T09:11:59.765Z - success: protocol theme registered
+2018-08-14T09:11:59.765Z - success: protocol packages registered
+2018-08-14T09:11:59.765Z - success: protocol unpack registerred
+2018-08-14T09:11:59.766Z - success: protocol disable-commonjs registerred
+2018-08-14T09:12:00.008Z - normal: connected!
+2018-08-14T09:12:00.009Z - normal: Check project /Users/mac/MatchVsGithub/ShaoLinTemple/ShaoLinTemple
+2018-08-14T09:12:00.010Z - normal: Initializing Cocos2d
+2018-08-14T09:12:00.210Z - normal: Initializing Asset Database
+2018-08-14T09:12:00.240Z - success: protocol uuid registerred
+2018-08-14T09:12:00.240Z - success: protocol db registerred
+2018-08-14T09:12:00.240Z - success: protocol thumbnail registerred
+2018-08-14T09:12:00.240Z - normal: Loading editor/builtin packages
+2018-08-14T09:12:00.257Z - success: anysdk loaded
+2018-08-14T09:12:00.370Z - success: assets loaded
+2018-08-14T09:12:00.373Z - success: builder loaded
+2018-08-14T09:12:00.375Z - success: cocos-analytics loaded
+2018-08-14T09:12:00.383Z - success: console loaded
+2018-08-14T09:12:00.418Z - success: fb-instant-games loaded
+2018-08-14T09:12:00.422Z - success: hierarchy loaded
+2018-08-14T09:12:00.426Z - success: inspector loaded
+2018-08-14T09:12:00.429Z - success: keystore loaded
+2018-08-14T09:12:00.435Z - success: node-library loaded
+2018-08-14T09:12:00.437Z - success: package-asset loaded
+2018-08-14T09:12:00.439Z - success: preferences loaded
+2018-08-14T09:12:00.441Z - success: project-exporter loaded
+2018-08-14T09:12:00.457Z - success: project-importer loaded
+2018-08-14T09:12:00.466Z - success: project-settings loaded
+2018-08-14T09:12:00.470Z - success: ui-kit loaded
+2018-08-14T09:12:00.474Z - success: ui-grid loaded
+2018-08-14T09:12:00.482Z - success: scene loaded
+2018-08-14T09:12:00.484Z - success: sprite-editor loaded
+2018-08-14T09:12:00.487Z - success: store loaded
+2018-08-14T09:12:00.493Z - success: timeline loaded
+2018-08-14T09:12:00.493Z - normal: Loading builtin packages
+2018-08-14T09:12:00.500Z - success: asset-db-debugger loaded
+2018-08-14T09:12:00.502Z - success: color-picker loaded
+2018-08-14T09:12:00.505Z - success: package-manager loaded
+2018-08-14T09:12:00.506Z - success: qqplay-adapter loaded
+2018-08-14T09:12:00.517Z - success: sdkbox loaded
+2018-08-14T09:12:00.521Z - success: tester loaded
+2018-08-14T09:12:00.524Z - success: ui-kit-preview-extra loaded
+2018-08-14T09:12:00.530Z - success: ui-kit-preview loaded
+2018-08-14T09:12:00.534Z - success: ui-tree loaded
+2018-08-14T09:12:00.535Z - success: weapp-adapter loaded
+2018-08-14T09:12:01.616Z - normal: Initializing project /Users/mac/MatchVsGithub/ShaoLinTemple/ShaoLinTemple
+2018-08-14T09:12:01.618Z - normal: Loading packages
+2018-08-14T09:12:01.633Z - success: plugin-matchvs loaded
+2018-08-14T09:12:01.633Z - normal: Watching packages
+2018-08-14T09:12:01.762Z - normal: Run Application
+2018-08-14T09:12:02.867Z - success: preview server running at http://localhost:7456
+2018-08-14T09:12:09.394Z - normal: 1.9.3
