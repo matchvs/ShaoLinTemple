@@ -1,56 +1,62 @@
-2018-08-14T09:11:59.046Z - normal: Load ~/.CocosCreator/settings.json
-2018-08-14T09:11:59.050Z - normal: checking language setting...
-2018-08-14T09:11:59.050Z - normal: Language: zh
-2018-08-14T09:11:59.764Z - success: protocol editor-framework registered
-2018-08-14T09:11:59.765Z - success: protocol app registered
-2018-08-14T09:11:59.765Z - success: protocol theme registered
-2018-08-14T09:11:59.765Z - success: protocol packages registered
-2018-08-14T09:11:59.765Z - success: protocol unpack registerred
-2018-08-14T09:11:59.766Z - success: protocol disable-commonjs registerred
-2018-08-14T09:12:00.008Z - normal: connected!
-2018-08-14T09:12:00.009Z - normal: Check project /Users/mac/MatchVsGithub/ShaoLinTemple/ShaoLinTemple
-2018-08-14T09:12:00.010Z - normal: Initializing Cocos2d
-2018-08-14T09:12:00.210Z - normal: Initializing Asset Database
-2018-08-14T09:12:00.240Z - success: protocol uuid registerred
-2018-08-14T09:12:00.240Z - success: protocol db registerred
-2018-08-14T09:12:00.240Z - success: protocol thumbnail registerred
-2018-08-14T09:12:00.240Z - normal: Loading editor/builtin packages
-2018-08-14T09:12:00.257Z - success: anysdk loaded
-2018-08-14T09:12:00.370Z - success: assets loaded
-2018-08-14T09:12:00.373Z - success: builder loaded
-2018-08-14T09:12:00.375Z - success: cocos-analytics loaded
-2018-08-14T09:12:00.383Z - success: console loaded
-2018-08-14T09:12:00.418Z - success: fb-instant-games loaded
-2018-08-14T09:12:00.422Z - success: hierarchy loaded
-2018-08-14T09:12:00.426Z - success: inspector loaded
-2018-08-14T09:12:00.429Z - success: keystore loaded
-2018-08-14T09:12:00.435Z - success: node-library loaded
-2018-08-14T09:12:00.437Z - success: package-asset loaded
-2018-08-14T09:12:00.439Z - success: preferences loaded
-2018-08-14T09:12:00.441Z - success: project-exporter loaded
-2018-08-14T09:12:00.457Z - success: project-importer loaded
-2018-08-14T09:12:00.466Z - success: project-settings loaded
-2018-08-14T09:12:00.470Z - success: ui-kit loaded
-2018-08-14T09:12:00.474Z - success: ui-grid loaded
-2018-08-14T09:12:00.482Z - success: scene loaded
-2018-08-14T09:12:00.484Z - success: sprite-editor loaded
-2018-08-14T09:12:00.487Z - success: store loaded
-2018-08-14T09:12:00.493Z - success: timeline loaded
-2018-08-14T09:12:00.493Z - normal: Loading builtin packages
-2018-08-14T09:12:00.500Z - success: asset-db-debugger loaded
-2018-08-14T09:12:00.502Z - success: color-picker loaded
-2018-08-14T09:12:00.505Z - success: package-manager loaded
-2018-08-14T09:12:00.506Z - success: qqplay-adapter loaded
-2018-08-14T09:12:00.517Z - success: sdkbox loaded
-2018-08-14T09:12:00.521Z - success: tester loaded
-2018-08-14T09:12:00.524Z - success: ui-kit-preview-extra loaded
-2018-08-14T09:12:00.530Z - success: ui-kit-preview loaded
-2018-08-14T09:12:00.534Z - success: ui-tree loaded
-2018-08-14T09:12:00.535Z - success: weapp-adapter loaded
-2018-08-14T09:12:01.616Z - normal: Initializing project /Users/mac/MatchVsGithub/ShaoLinTemple/ShaoLinTemple
-2018-08-14T09:12:01.618Z - normal: Loading packages
-2018-08-14T09:12:01.633Z - success: plugin-matchvs loaded
-2018-08-14T09:12:01.633Z - normal: Watching packages
-2018-08-14T09:12:01.762Z - normal: Run Application
-2018-08-14T09:12:02.867Z - success: preview server running at http://localhost:7456
-2018-08-14T09:12:09.394Z - normal: 1.9.3
+2018-08-15T02:19:25.948Z - normal: Load ~/.CocosCreator/settings.json
+2018-08-15T02:19:25.952Z - normal: checking language setting...
+2018-08-15T02:19:25.952Z - normal: Language: zh
+2018-08-15T02:19:27.949Z - success: protocol editor-framework registered
+2018-08-15T02:19:27.949Z - success: protocol app registered
+2018-08-15T02:19:27.949Z - success: protocol theme registered
+2018-08-15T02:19:27.949Z - success: protocol packages registered
+2018-08-15T02:19:27.950Z - success: protocol unpack registerred
+2018-08-15T02:19:27.950Z - success: protocol disable-commonjs registerred
+2018-08-15T02:19:28.390Z - normal: connected!
+2018-08-15T02:19:28.392Z - normal: Check project /Users/mac/MatchVsGithub/ShaoLinTemple/ShaoLinTemple
+2018-08-15T02:19:28.396Z - normal: Initializing Cocos2d
+2018-08-15T02:19:28.808Z - normal: Initializing Asset Database
+2018-08-15T02:19:28.856Z - success: protocol uuid registerred
+2018-08-15T02:19:28.856Z - success: protocol db registerred
+2018-08-15T02:19:28.856Z - success: protocol thumbnail registerred
+2018-08-15T02:19:28.856Z - normal: Loading editor/builtin packages
+2018-08-15T02:19:28.891Z - success: anysdk loaded
+2018-08-15T02:19:29.148Z - success: assets loaded
+2018-08-15T02:19:29.154Z - success: builder loaded
+2018-08-15T02:19:29.160Z - success: cocos-analytics loaded
+2018-08-15T02:19:29.167Z - success: console loaded
+2018-08-15T02:19:29.296Z - success: fb-instant-games loaded
+2018-08-15T02:19:29.304Z - success: hierarchy loaded
+2018-08-15T02:19:29.311Z - success: inspector loaded
+2018-08-15T02:19:29.312Z - success: keystore loaded
+2018-08-15T02:19:29.317Z - success: node-library loaded
+2018-08-15T02:19:29.319Z - success: package-asset loaded
+2018-08-15T02:19:29.321Z - success: preferences loaded
+2018-08-15T02:19:29.327Z - success: project-exporter loaded
+2018-08-15T02:19:29.356Z - success: project-importer loaded
+2018-08-15T02:19:29.361Z - success: project-settings loaded
+2018-08-15T02:19:29.367Z - success: ui-kit loaded
+2018-08-15T02:19:29.374Z - success: ui-grid loaded
+2018-08-15T02:19:29.381Z - success: scene loaded
+2018-08-15T02:19:29.382Z - success: sprite-editor loaded
+2018-08-15T02:19:29.388Z - success: store loaded
+2018-08-15T02:19:29.397Z - success: timeline loaded
+2018-08-15T02:19:29.397Z - normal: Loading builtin packages
+2018-08-15T02:19:29.403Z - success: asset-db-debugger loaded
+2018-08-15T02:19:29.404Z - success: color-picker loaded
+2018-08-15T02:19:29.413Z - success: package-manager loaded
+2018-08-15T02:19:29.415Z - success: qqplay-adapter loaded
+2018-08-15T02:19:29.425Z - success: sdkbox loaded
+2018-08-15T02:19:29.555Z - success: tester loaded
+2018-08-15T02:19:29.562Z - success: ui-kit-preview-extra loaded
+2018-08-15T02:19:29.567Z - success: ui-kit-preview loaded
+2018-08-15T02:19:29.571Z - success: ui-tree loaded
+2018-08-15T02:19:29.574Z - success: weapp-adapter loaded
+2018-08-15T02:19:31.505Z - normal: Initializing project /Users/mac/MatchVsGithub/ShaoLinTemple/ShaoLinTemple
+2018-08-15T02:19:31.511Z - normal: Loading packages
+2018-08-15T02:19:31.539Z - success: plugin-matchvs loaded
+2018-08-15T02:19:31.547Z - normal: Watching packages
+2018-08-15T02:19:31.719Z - normal: Run Application
+2018-08-15T02:19:33.234Z - success: preview server running at http://localhost:7465
+2018-08-15T02:20:05.218Z - normal: 1.9.3
+2018-08-15T02:48:15.289Z - error: TypeError: Cannot read property '_userId' of undefined
+    at HTMLElement.updateItemID (packages://ui-tree/widget/id-tree.js:70:32)
+    at HTMLElement.asset-db:asset-uuid-changed (file:///Applications/CocosCreator%201.9.3.app/Contents/Resources/app.asar/editor/builtin/assets/panel/panel.js:1:6588)
+    at EventEmitter.e.on.t (/Applications/CocosCreator 1.9.3.app/Contents/Resources/app.asar/editor-framework/lib/renderer/ui/utils/polymer-utils.js:1:353)
+    at emitTwo (events.js:111:20)
+    at EventEmitter.emit (events.js:194:7)

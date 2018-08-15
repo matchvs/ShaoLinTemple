@@ -68,8 +68,8 @@ cc.Class({
     },
 
     gameOver: function gameOver() {
-        console.log("游戏结束");
-        if (Game.GameManager.gameState !== GameState.Over) {
+        var gamePanel = uiFunc.findUI("uiGamePanel");
+        if (gamePanel && Game.GameManager.gameState !== GameState.Over) {
             Game.GameManager.gameState = GameState.Over;
             clientEvent.dispatch(clientEvent.eventType.gameOver);
             setTimeout(function () {
@@ -100,12 +100,17 @@ cc.Class({
         mvs.response.loginResponse = this.loginResponse.bind(this); // 用户登录之后的回调
         mvs.response.logoutResponse = this.logoutResponse.bind(this); // 用户登录之后的回调
         mvs.response.sendEventNotify = this.sendEventNotify.bind(this);
+        mvs.response.networkStateNotify = this.networkStateNotify.bind(this);
 
         var result = mvs.engine.init(mvs.response, GLB.channel, GLB.platform, GLB.gameId);
         if (result !== 0) {
             console.log('初始化失败,错误码:' + result);
         }
         Game.GameManager.blockInput();
+    },
+
+    networkStateNotify: function networkStateNotify(netNotify) {
+        clientEvent.dispatch(clientEvent.eventType.leaveRoomMedNotify, netNotify);
     },
 
     kickPlayerNotify: function kickPlayerNotify(_kickPlayerNotify) {
