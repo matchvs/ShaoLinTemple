@@ -40,7 +40,7 @@ cc.Class({
                     });
                 }
             })
-        }catch (e) {
+        } catch (e) {
 
         }
     },
@@ -228,7 +228,7 @@ cc.Class({
     },
 
     errorResponse: function(error, msg) {
-        if (error === 1001) {
+        if (error === 1001 || error === 0) {
             uiFunc.openUI("uiTip", function(obj) {
                 var uiTip = obj.getComponent("uiTip");
                 if (uiTip) {
