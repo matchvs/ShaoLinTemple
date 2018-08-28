@@ -143,7 +143,7 @@ cc.Class({
 
     inviteFriend: function() {
         if (window.wx) {
-            wx.shareAppMessage({imageUrl: "https://data.tianziyou.com/matchvsGamesRes/logo/tiaoxinlogo.png"});
+            wx.shareAppMessage({imageUrl: "https://data.tianziyou.com/matchvsGamesRes/logo/tiaoxinlogo1.png"});
         }
     }
 });
