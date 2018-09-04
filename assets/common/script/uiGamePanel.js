@@ -127,9 +127,7 @@ cc.Class({
             uiFunc.openUI("uiTip", function(obj) {
                 var uiTip = obj.getComponent("uiTip");
                 if (uiTip) {
-                    if (data.leaveRoomInfo.userId !== GLB.userInfo.id) {
-                        uiTip.setData("对手离开了游戏");
-                    }
+                    uiTip.setData("对手离开了游戏");
                 }
             }.bind(this));
         }
@@ -437,7 +435,7 @@ cc.Class({
     },
 
     onDestroy() {
-
+        clearInterval(this.timer);
         this.brotherAnim.off('finished', this.roleAlreadyAppear, this);
         this.teacherAnim.off('finished', this.roleAlreadyAppear, this);
         this.besomAnim.off('finished', this.roleAlreadyAppear, this);
