@@ -20,7 +20,7 @@
                 ],
                 "height": 353,
                 "type": "panel",
-                "width": 485.859375
+                "width": 486
               },
               {
                 "active": 0,
@@ -29,12 +29,12 @@
                 ],
                 "height": 530,
                 "type": "panel",
-                "width": 485.859375
+                "width": 486
               }
             ],
             "height": 886,
             "type": "dock-v",
-            "width": 485.859375
+            "width": 486
           },
           {
             "children": [
@@ -47,7 +47,7 @@
                     ],
                     "height": 482,
                     "type": "panel",
-                    "width": 636.671875
+                    "width": 637
                   },
                   {
                     "active": 0,
@@ -56,12 +56,12 @@
                     ],
                     "height": 482,
                     "type": "panel",
-                    "width": 282.09375
+                    "width": 282
                   }
                 ],
                 "height": 482,
                 "type": "dock-h",
-                "width": 921.765625
+                "width": 922
               },
               {
                 "active": 0,
@@ -71,21 +71,22 @@
                 ],
                 "height": 401,
                 "type": "panel",
-                "width": 921.765625
+                "width": 922
               }
             ],
             "height": 886,
             "type": "dock-v",
-            "width": 921.765625
+            "width": 922
           },
           {
-            "active": 0,
+            "active": 1,
             "children": [
-              "inspector"
+              "inspector",
+              "builder"
             ],
             "height": 886,
             "type": "panel",
-            "width": 461.375
+            "width": 461
           }
         ],
         "type": "dock-h"
@@ -97,9 +98,11 @@
         "inspector",
         "hierarchy",
         "assets",
-        "scene"
+        "scene",
+        "builder"
       ]
-    }
+    },
+    "worker": {}
   },
   "panels": {
     "store": {
@@ -109,8 +112,8 @@
       "height": 779
     },
     "builder": {
-      "x": 791,
-      "y": 23,
+      "x": 848,
+      "y": 331,
       "width": 500,
       "height": 680
     },

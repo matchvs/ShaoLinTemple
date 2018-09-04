@@ -2649,6 +2649,9 @@
     },
     "kick": {
       "__id__": 76
+    },
+    "userIcon": {
+      "__id__": 26
     }
   },
   {
@@ -2982,7 +2985,7 @@
       }
     ],
     "_tag": -1,
-    "_active": true,
+    "_active": false,
     "_components": [
       {
         "__id__": 96
@@ -3164,7 +3167,8 @@
     },
     "_enabled": true,
     "showAnimation": 0,
-    "hideAnimation": 0
+    "hideAnimation": 0,
+    "isUseMask": false
   },
   {
     "__type__": "cc.PrefabInfo",

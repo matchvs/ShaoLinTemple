@@ -107,6 +107,9 @@ cc.Class({
     },
 
     networkStateNotify: function(netNotify) {
+        if (netNotify.userID !== GLB.userInfo.id) {
+            GLB.isRoomOwner = true;
+        }
         clientEvent.dispatch(clientEvent.eventType.leaveRoomMedNotify, netNotify);
     },
 
