@@ -110,7 +110,10 @@ cc.Class({
         if (netNotify.userID !== GLB.userInfo.id) {
             GLB.isRoomOwner = true;
         }
-        clientEvent.dispatch(clientEvent.eventType.leaveRoomMedNotify, netNotify);
+        console.log(netNotify);
+        if(netNotify.state === 1) {
+            clientEvent.dispatch(clientEvent.eventType.leaveRoomMedNotify, netNotify);
+        }
     },
 
     kickPlayerNotify: function(kickPlayerNotify) {
