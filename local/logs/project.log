@@ -246,3 +246,960 @@ uuid: "5233d8f0-d161-4483-ab55-49f6849989c2"
 
 2018-09-04T04:02:14.712Z - normal: open IDE success
 
+2018-09-04T06:05:47.792Z - normal: Start building with options : {
+  "androidStudio": true,
+  "apiLevel": "",
+  "appABIs": [],
+  "appKey": "",
+  "appSecret": "",
+  "buildPath": "/Users/mac/MatchVsGithub/ShaoLinTemple/ShaoLinTemple/build",
+  "debug": false,
+  "dest": "/Users/mac/MatchVsGithub/ShaoLinTemple/ShaoLinTemple/build/wechatgame",
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [],
+  "fb-instant-games": {},
+  "includeAnySDK": false,
+  "includeEruda": false,
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "jailbreakPlatform": false,
+  "md5Cache": true,
+  "mergeStartScene": false,
+  "oauthLoginServer": "",
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.DuckHunt",
+  "platform": "wechatgame",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "privateKey": "",
+  "qqplay": {
+    "REMOTE_SERVER_ROOT": "",
+    "orientation": "portrait"
+  },
+  "renderMode": "0",
+  "scenes": [
+    "79146b76-f001-46c3-9f85-5e013f21b436",
+    "117c424d-e9a8-4789-bdd9-05fb745695e1"
+  ],
+  "sourceMaps": false,
+  "startScene": "79146b76-f001-46c3-9f85-5e013f21b436",
+  "template": "link",
+  "title": "temple",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "portrait",
+  "wechatgame": {
+    "REMOTE_SERVER_ROOT": "https://data.tianziyou.com/matchvsGamesRes/shaolintemple",
+    "appid": "wx793199d0ca521154",
+    "orientation": "portrait"
+  },
+  "xxteaKey": "a15e5bec-8ac1-4f",
+  "zipCompressJs": true,
+  "project": "/Users/mac/MatchVsGithub/ShaoLinTemple/ShaoLinTemple",
+  "projectName": "temple",
+  "debugBuildWorker": false
+}
+2018-09-04T06:05:47.806Z - normal: Building /Users/mac/MatchVsGithub/ShaoLinTemple/ShaoLinTemple
+2018-09-04T06:05:47.806Z - normal: Destination /Users/mac/MatchVsGithub/ShaoLinTemple/ShaoLinTemple/build/wechatgame
+2018-09-04T06:05:47.807Z - normal: Delete /Users/mac/MatchVsGithub/ShaoLinTemple/ShaoLinTemple/build/wechatgame/**/*
+2018-09-04T06:06:00.850Z - normal: Compiled project javascript file successfully
+2018-09-04T06:06:00.850Z - normal: Start building assets
+2018-09-04T06:06:00.850Z - normal: Start spawn build-worker
+2018-09-04T06:06:01.640Z - normal: Finish spawn build-worker
+2018-09-04T06:06:01.640Z - normal: Start init build-worker
+2018-09-04T06:06:04.293Z - normal: 1.9.3
+2018-09-04T06:06:04.670Z - normal: Finish init build-worker
+2018-09-04T06:06:04.670Z - normal: Start build-assets in worker
+2018-09-04T06:06:05.527Z - warn: The referenced asset used in "db://assets/resources/ui/key_countdown.prefab" is not found, it may have been deleted. Detailed information:
+Used by "Array"
+uuid: "5233d8f0-d161-4483-ab55-49f6849989c2"
+2018-09-04T06:06:06.459Z - normal: Finish build-assets in worker
+2018-09-04T06:06:06.464Z - normal: Finish building assets
+2018-09-04T06:06:06.497Z - normal: Start building raw assets
+2018-09-04T06:06:06.499Z - normal: Start building plugin scripts
+2018-09-04T06:06:08.563Z - normal: Finish building plugin scripts
+2018-09-04T06:06:08.823Z - normal: Finish building raw assets
+2018-09-04T06:06:08.833Z - normal: Generating main.js from /Applications/CocosCreator1.9.3.app/Contents/Resources/static/build-templates/shares/main.js
+2018-09-04T06:06:10.343Z - normal: Built to "/Users/mac/MatchVsGithub/ShaoLinTemple/ShaoLinTemple/build/wechatgame" successfully
+2018-09-04T06:10:54.176Z - warn: 找不到微信开发程序版本信息路径 [/Applications/wechatwebdevtools.app/Contents/Resources/app.nw/package.json]。
+2018-09-04T06:10:54.177Z - warn: 微信开发程序版本过低，不能享用所有功能，请尽快升级。
+2018-09-04T06:10:54.671Z - normal: Initializing...
+
+2018-09-04T06:10:54.677Z - normal: idePortFile: /Users/mac/Library/Application Support/微信web开发者工具/Default/.ide
+
+2018-09-04T06:10:54.694Z - normal: IDE server has started, listening on http://127.0.0.1:10611
+initialization finished
+
+2018-09-04T06:10:54.944Z - normal: open IDE success
+
+2018-09-04T06:14:57.644Z - normal: Start building with options : {
+  "androidStudio": true,
+  "apiLevel": "",
+  "appABIs": [],
+  "appKey": "",
+  "appSecret": "",
+  "buildPath": "/Users/mac/MatchVsGithub/ShaoLinTemple/ShaoLinTemple/build",
+  "debug": false,
+  "dest": "/Users/mac/MatchVsGithub/ShaoLinTemple/ShaoLinTemple/build/wechatgame",
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [],
+  "fb-instant-games": {},
+  "includeAnySDK": false,
+  "includeEruda": false,
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "jailbreakPlatform": false,
+  "md5Cache": true,
+  "mergeStartScene": false,
+  "oauthLoginServer": "",
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.DuckHunt",
+  "platform": "wechatgame",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "privateKey": "",
+  "qqplay": {
+    "REMOTE_SERVER_ROOT": "",
+    "orientation": "portrait"
+  },
+  "renderMode": "0",
+  "scenes": [
+    "79146b76-f001-46c3-9f85-5e013f21b436",
+    "117c424d-e9a8-4789-bdd9-05fb745695e1"
+  ],
+  "sourceMaps": false,
+  "startScene": "79146b76-f001-46c3-9f85-5e013f21b436",
+  "template": "link",
+  "title": "temple",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "portrait",
+  "wechatgame": {
+    "REMOTE_SERVER_ROOT": "https://data.tianziyou.com/matchvsGamesRes/shaolintemple",
+    "appid": "wx793199d0ca521154",
+    "orientation": "portrait"
+  },
+  "xxteaKey": "a15e5bec-8ac1-4f",
+  "zipCompressJs": true,
+  "project": "/Users/mac/MatchVsGithub/ShaoLinTemple/ShaoLinTemple",
+  "projectName": "temple",
+  "debugBuildWorker": false
+}
+2018-09-04T06:14:57.653Z - normal: Building /Users/mac/MatchVsGithub/ShaoLinTemple/ShaoLinTemple
+2018-09-04T06:14:57.653Z - normal: Destination /Users/mac/MatchVsGithub/ShaoLinTemple/ShaoLinTemple/build/wechatgame
+2018-09-04T06:14:57.654Z - normal: Delete /Users/mac/MatchVsGithub/ShaoLinTemple/ShaoLinTemple/build/wechatgame/**/*
+2018-09-04T06:15:10.253Z - normal: Compiled project javascript file successfully
+2018-09-04T06:15:10.253Z - normal: Start building assets
+2018-09-04T06:15:10.254Z - normal: Start spawn build-worker
+2018-09-04T06:15:11.192Z - normal: Finish spawn build-worker
+2018-09-04T06:15:11.192Z - normal: Start init build-worker
+2018-09-04T06:15:13.831Z - normal: 1.9.3
+2018-09-04T06:15:14.224Z - normal: Finish init build-worker
+2018-09-04T06:15:14.224Z - normal: Start build-assets in worker
+2018-09-04T06:15:15.060Z - warn: The referenced asset used in "db://assets/resources/ui/key_countdown.prefab" is not found, it may have been deleted. Detailed information:
+Used by "Array"
+uuid: "5233d8f0-d161-4483-ab55-49f6849989c2"
+2018-09-04T06:15:15.911Z - normal: Finish build-assets in worker
+2018-09-04T06:15:15.916Z - normal: Finish building assets
+2018-09-04T06:15:15.948Z - normal: Start building raw assets
+2018-09-04T06:15:15.948Z - normal: Start building plugin scripts
+2018-09-04T06:15:18.024Z - normal: Finish building plugin scripts
+2018-09-04T06:15:18.166Z - normal: Finish building raw assets
+2018-09-04T06:15:18.170Z - normal: Generating main.js from /Applications/CocosCreator1.9.3.app/Contents/Resources/static/build-templates/shares/main.js
+2018-09-04T06:15:19.330Z - normal: Built to "/Users/mac/MatchVsGithub/ShaoLinTemple/ShaoLinTemple/build/wechatgame" successfully
+2018-09-04T06:15:20.535Z - warn: 找不到微信开发程序版本信息路径 [/Applications/wechatwebdevtools.app/Contents/Resources/app.nw/package.json]。
+2018-09-04T06:15:20.535Z - warn: 微信开发程序版本过低，不能享用所有功能，请尽快升级。
+2018-09-04T06:15:21.415Z - normal: Initializing...
+
+2018-09-04T06:15:21.429Z - normal: idePortFile: /Users/mac/Library/Application Support/微信web开发者工具/Default/.ide
+
+2018-09-04T06:15:21.480Z - normal: IDE server has started, listening on http://127.0.0.1:10611
+
+2018-09-04T06:15:21.480Z - normal: initialization finished
+
+2018-09-04T06:15:21.732Z - normal: open IDE success
+
+2018-09-04T06:19:21.986Z - normal: Start building with options : {
+  "androidStudio": true,
+  "apiLevel": "",
+  "appABIs": [],
+  "appKey": "",
+  "appSecret": "",
+  "buildPath": "/Users/mac/MatchVsGithub/ShaoLinTemple/ShaoLinTemple/build",
+  "debug": false,
+  "dest": "/Users/mac/MatchVsGithub/ShaoLinTemple/ShaoLinTemple/build/wechatgame",
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [],
+  "fb-instant-games": {},
+  "includeAnySDK": false,
+  "includeEruda": false,
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "jailbreakPlatform": false,
+  "md5Cache": true,
+  "mergeStartScene": false,
+  "oauthLoginServer": "",
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.DuckHunt",
+  "platform": "wechatgame",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "privateKey": "",
+  "qqplay": {
+    "REMOTE_SERVER_ROOT": "",
+    "orientation": "portrait"
+  },
+  "renderMode": "0",
+  "scenes": [
+    "79146b76-f001-46c3-9f85-5e013f21b436",
+    "117c424d-e9a8-4789-bdd9-05fb745695e1"
+  ],
+  "sourceMaps": false,
+  "startScene": "79146b76-f001-46c3-9f85-5e013f21b436",
+  "template": "link",
+  "title": "temple",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "portrait",
+  "wechatgame": {
+    "REMOTE_SERVER_ROOT": "https://data.tianziyou.com/matchvsGamesRes/shaolintemple",
+    "appid": "wx793199d0ca521154",
+    "orientation": "portrait"
+  },
+  "xxteaKey": "a15e5bec-8ac1-4f",
+  "zipCompressJs": true,
+  "project": "/Users/mac/MatchVsGithub/ShaoLinTemple/ShaoLinTemple",
+  "projectName": "temple",
+  "debugBuildWorker": false
+}
+2018-09-04T06:19:22.000Z - normal: Building /Users/mac/MatchVsGithub/ShaoLinTemple/ShaoLinTemple
+2018-09-04T06:19:22.000Z - normal: Destination /Users/mac/MatchVsGithub/ShaoLinTemple/ShaoLinTemple/build/wechatgame
+2018-09-04T06:19:22.001Z - normal: Delete /Users/mac/MatchVsGithub/ShaoLinTemple/ShaoLinTemple/build/wechatgame/**/*
+2018-09-04T06:19:37.641Z - normal: Compiled project javascript file successfully
+2018-09-04T06:19:37.642Z - normal: Start building assets
+2018-09-04T06:19:37.642Z - normal: Start spawn build-worker
+2018-09-04T06:19:38.601Z - normal: Finish spawn build-worker
+2018-09-04T06:19:38.602Z - normal: Start init build-worker
+2018-09-04T06:19:41.121Z - normal: 1.9.3
+2018-09-04T06:19:41.542Z - normal: Finish init build-worker
+2018-09-04T06:19:41.543Z - normal: Start build-assets in worker
+2018-09-04T06:19:42.395Z - warn: The referenced asset used in "db://assets/resources/ui/key_countdown.prefab" is not found, it may have been deleted. Detailed information:
+Used by "Array"
+uuid: "5233d8f0-d161-4483-ab55-49f6849989c2"
+2018-09-04T06:19:43.296Z - normal: Finish build-assets in worker
+2018-09-04T06:19:43.300Z - normal: Finish building assets
+2018-09-04T06:19:43.336Z - normal: Start building raw assets
+2018-09-04T06:19:43.336Z - normal: Start building plugin scripts
+2018-09-04T06:19:45.184Z - normal: Finish building plugin scripts
+2018-09-04T06:19:45.386Z - normal: Finish building raw assets
+2018-09-04T06:19:45.389Z - normal: Generating main.js from /Applications/CocosCreator1.9.3.app/Contents/Resources/static/build-templates/shares/main.js
+2018-09-04T06:19:47.018Z - normal: Built to "/Users/mac/MatchVsGithub/ShaoLinTemple/ShaoLinTemple/build/wechatgame" successfully
+2018-09-04T06:20:08.475Z - warn: 找不到微信开发程序版本信息路径 [/Applications/wechatwebdevtools.app/Contents/Resources/app.nw/package.json]。
+2018-09-04T06:20:08.475Z - warn: 微信开发程序版本过低，不能享用所有功能，请尽快升级。
+2018-09-04T06:20:09.015Z - normal: Initializing...
+
+2018-09-04T06:20:09.077Z - normal: idePortFile: /Users/mac/Library/Application Support/微信web开发者工具/Default/.ide
+
+2018-09-04T06:20:09.130Z - normal: IDE server has started, listening on http://127.0.0.1:10611
+
+2018-09-04T06:20:09.130Z - normal: initialization finished
+
+2018-09-04T06:20:09.377Z - normal: open IDE success
+
+2018-09-04T06:20:23.976Z - normal: Start building with options : {
+  "androidStudio": true,
+  "apiLevel": "",
+  "appABIs": [],
+  "appKey": "",
+  "appSecret": "",
+  "buildPath": "/Users/mac/MatchVsGithub/ShaoLinTemple/ShaoLinTemple/build",
+  "debug": false,
+  "dest": "/Users/mac/MatchVsGithub/ShaoLinTemple/ShaoLinTemple/build/wechatgame",
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [],
+  "fb-instant-games": {},
+  "includeAnySDK": false,
+  "includeEruda": false,
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "jailbreakPlatform": false,
+  "md5Cache": true,
+  "mergeStartScene": false,
+  "oauthLoginServer": "",
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.DuckHunt",
+  "platform": "wechatgame",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "privateKey": "",
+  "qqplay": {
+    "REMOTE_SERVER_ROOT": "",
+    "orientation": "portrait"
+  },
+  "renderMode": "0",
+  "scenes": [
+    "79146b76-f001-46c3-9f85-5e013f21b436",
+    "117c424d-e9a8-4789-bdd9-05fb745695e1"
+  ],
+  "sourceMaps": false,
+  "startScene": "79146b76-f001-46c3-9f85-5e013f21b436",
+  "template": "link",
+  "title": "temple",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "portrait",
+  "wechatgame": {
+    "REMOTE_SERVER_ROOT": "https://data.tianziyou.com/matchvsGamesRes/shaolintemple",
+    "appid": "wx793199d0ca521154",
+    "orientation": "portrait"
+  },
+  "xxteaKey": "a15e5bec-8ac1-4f",
+  "zipCompressJs": true,
+  "project": "/Users/mac/MatchVsGithub/ShaoLinTemple/ShaoLinTemple",
+  "projectName": "temple",
+  "debugBuildWorker": false
+}
+2018-09-04T06:20:23.978Z - normal: Building /Users/mac/MatchVsGithub/ShaoLinTemple/ShaoLinTemple
+2018-09-04T06:20:23.979Z - normal: Destination /Users/mac/MatchVsGithub/ShaoLinTemple/ShaoLinTemple/build/wechatgame
+2018-09-04T06:20:23.980Z - normal: Delete /Users/mac/MatchVsGithub/ShaoLinTemple/ShaoLinTemple/build/wechatgame/**/*
+2018-09-04T06:20:48.177Z - normal: Compiled project javascript file successfully
+2018-09-04T06:20:48.178Z - normal: Start building assets
+2018-09-04T06:20:48.178Z - normal: Start spawn build-worker
+2018-09-04T06:20:49.526Z - normal: Finish spawn build-worker
+2018-09-04T06:20:49.526Z - normal: Start init build-worker
+2018-09-04T06:20:54.774Z - normal: 1.9.3
+2018-09-04T06:20:55.468Z - normal: Finish init build-worker
+2018-09-04T06:20:55.468Z - normal: Start build-assets in worker
+2018-09-04T06:20:57.578Z - warn: The referenced asset used in "db://assets/resources/ui/key_countdown.prefab" is not found, it may have been deleted. Detailed information:
+Used by "Array"
+uuid: "5233d8f0-d161-4483-ab55-49f6849989c2"
+2018-09-04T06:20:59.985Z - normal: Finish build-assets in worker
+2018-09-04T06:21:00.000Z - normal: Finish building assets
+2018-09-04T06:21:00.051Z - normal: Start building raw assets
+2018-09-04T06:21:00.052Z - normal: Start building plugin scripts
+2018-09-04T06:21:06.096Z - normal: Finish building plugin scripts
+2018-09-04T06:21:06.619Z - normal: Finish building raw assets
+2018-09-04T06:21:06.745Z - normal: Generating main.js from /Applications/CocosCreator1.9.3.app/Contents/Resources/static/build-templates/shares/main.js
+2018-09-04T06:21:10.131Z - normal: Built to "/Users/mac/MatchVsGithub/ShaoLinTemple/ShaoLinTemple/build/wechatgame" successfully
+2018-09-04T06:21:16.780Z - warn: 找不到微信开发程序版本信息路径 [/Applications/wechatwebdevtools.app/Contents/Resources/app.nw/package.json]。
+2018-09-04T06:21:16.780Z - warn: 微信开发程序版本过低，不能享用所有功能，请尽快升级。
+2018-09-04T06:21:17.816Z - normal: Initializing...
+
+2018-09-04T06:21:17.833Z - normal: idePortFile: /Users/mac/Library/Application Support/微信web开发者工具/Default/.ide
+
+2018-09-04T06:21:17.944Z - normal: IDE server has started, listening on http://127.0.0.1:10611
+
+2018-09-04T06:21:17.945Z - normal: initialization finished
+
+2018-09-04T06:21:18.225Z - normal: open IDE success
+
+2018-09-04T06:21:43.892Z - normal: Start building with options : {
+  "androidStudio": true,
+  "apiLevel": "",
+  "appABIs": [],
+  "appKey": "",
+  "appSecret": "",
+  "buildPath": "/Users/mac/MatchVsGithub/ShaoLinTemple/ShaoLinTemple/build",
+  "debug": false,
+  "dest": "/Users/mac/MatchVsGithub/ShaoLinTemple/ShaoLinTemple/build/wechatgame",
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [],
+  "fb-instant-games": {},
+  "includeAnySDK": false,
+  "includeEruda": false,
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "jailbreakPlatform": false,
+  "md5Cache": true,
+  "mergeStartScene": false,
+  "oauthLoginServer": "",
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.DuckHunt",
+  "platform": "wechatgame",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "privateKey": "",
+  "qqplay": {
+    "REMOTE_SERVER_ROOT": "",
+    "orientation": "portrait"
+  },
+  "renderMode": "0",
+  "scenes": [
+    "79146b76-f001-46c3-9f85-5e013f21b436",
+    "117c424d-e9a8-4789-bdd9-05fb745695e1"
+  ],
+  "sourceMaps": false,
+  "startScene": "79146b76-f001-46c3-9f85-5e013f21b436",
+  "template": "link",
+  "title": "temple",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "portrait",
+  "wechatgame": {
+    "REMOTE_SERVER_ROOT": "https://data.tianziyou.com/matchvsGamesRes/shaolintemple",
+    "appid": "wx793199d0ca521154",
+    "orientation": "portrait"
+  },
+  "xxteaKey": "a15e5bec-8ac1-4f",
+  "zipCompressJs": true,
+  "project": "/Users/mac/MatchVsGithub/ShaoLinTemple/ShaoLinTemple",
+  "projectName": "temple",
+  "debugBuildWorker": false
+}
+2018-09-04T06:21:43.897Z - normal: Building /Users/mac/MatchVsGithub/ShaoLinTemple/ShaoLinTemple
+2018-09-04T06:21:43.898Z - normal: Destination /Users/mac/MatchVsGithub/ShaoLinTemple/ShaoLinTemple/build/wechatgame
+2018-09-04T06:21:43.898Z - normal: Delete /Users/mac/MatchVsGithub/ShaoLinTemple/ShaoLinTemple/build/wechatgame/**/*
+2018-09-04T06:22:08.161Z - normal: Compiled project javascript file successfully
+2018-09-04T06:22:08.161Z - normal: Start building assets
+2018-09-04T06:22:08.161Z - normal: Start spawn build-worker
+2018-09-04T06:22:09.057Z - normal: Finish spawn build-worker
+2018-09-04T06:22:09.057Z - normal: Start init build-worker
+2018-09-04T06:22:11.643Z - normal: 1.9.3
+2018-09-04T06:22:12.070Z - normal: Finish init build-worker
+2018-09-04T06:22:12.070Z - normal: Start build-assets in worker
+2018-09-04T06:22:13.005Z - warn: The referenced asset used in "db://assets/resources/ui/key_countdown.prefab" is not found, it may have been deleted. Detailed information:
+Used by "Array"
+uuid: "5233d8f0-d161-4483-ab55-49f6849989c2"
+2018-09-04T06:22:13.941Z - normal: Finish build-assets in worker
+2018-09-04T06:22:13.947Z - normal: Finish building assets
+2018-09-04T06:22:13.981Z - normal: Start building raw assets
+2018-09-04T06:22:13.982Z - normal: Start building plugin scripts
+2018-09-04T06:22:16.062Z - normal: Finish building plugin scripts
+2018-09-04T06:22:16.226Z - normal: Finish building raw assets
+2018-09-04T06:22:16.229Z - normal: Generating main.js from /Applications/CocosCreator1.9.3.app/Contents/Resources/static/build-templates/shares/main.js
+2018-09-04T06:22:17.348Z - normal: Built to "/Users/mac/MatchVsGithub/ShaoLinTemple/ShaoLinTemple/build/wechatgame" successfully
+2018-09-04T06:22:18.898Z - warn: 找不到微信开发程序版本信息路径 [/Applications/wechatwebdevtools.app/Contents/Resources/app.nw/package.json]。
+2018-09-04T06:22:18.899Z - warn: 微信开发程序版本过低，不能享用所有功能，请尽快升级。
+2018-09-04T06:22:19.350Z - normal: Initializing...
+
+2018-09-04T06:22:19.357Z - normal: idePortFile: /Users/mac/Library/Application Support/微信web开发者工具/Default/.ide
+
+2018-09-04T06:22:19.379Z - normal: IDE server has started, listening on http://127.0.0.1:10611
+initialization finished
+
+2018-09-04T06:22:19.615Z - normal: open IDE success
+
+2018-09-04T06:25:14.698Z - normal: Start building with options : {
+  "androidStudio": true,
+  "apiLevel": "",
+  "appABIs": [],
+  "appKey": "",
+  "appSecret": "",
+  "buildPath": "/Users/mac/MatchVsGithub/ShaoLinTemple/ShaoLinTemple/build",
+  "debug": false,
+  "dest": "/Users/mac/MatchVsGithub/ShaoLinTemple/ShaoLinTemple/build/wechatgame",
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [],
+  "fb-instant-games": {},
+  "includeAnySDK": false,
+  "includeEruda": false,
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "jailbreakPlatform": false,
+  "md5Cache": true,
+  "mergeStartScene": false,
+  "oauthLoginServer": "",
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.DuckHunt",
+  "platform": "wechatgame",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "privateKey": "",
+  "qqplay": {
+    "REMOTE_SERVER_ROOT": "",
+    "orientation": "portrait"
+  },
+  "renderMode": "0",
+  "scenes": [
+    "79146b76-f001-46c3-9f85-5e013f21b436",
+    "117c424d-e9a8-4789-bdd9-05fb745695e1"
+  ],
+  "sourceMaps": false,
+  "startScene": "79146b76-f001-46c3-9f85-5e013f21b436",
+  "template": "link",
+  "title": "temple",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "portrait",
+  "wechatgame": {
+    "REMOTE_SERVER_ROOT": "https://data.tianziyou.com/matchvsGamesRes/shaolintemple",
+    "appid": "wx793199d0ca521154",
+    "orientation": "portrait"
+  },
+  "xxteaKey": "a15e5bec-8ac1-4f",
+  "zipCompressJs": true,
+  "project": "/Users/mac/MatchVsGithub/ShaoLinTemple/ShaoLinTemple",
+  "projectName": "temple",
+  "debugBuildWorker": false
+}
+2018-09-04T06:25:14.711Z - normal: Building /Users/mac/MatchVsGithub/ShaoLinTemple/ShaoLinTemple
+2018-09-04T06:25:14.711Z - normal: Destination /Users/mac/MatchVsGithub/ShaoLinTemple/ShaoLinTemple/build/wechatgame
+2018-09-04T06:25:14.713Z - normal: Delete /Users/mac/MatchVsGithub/ShaoLinTemple/ShaoLinTemple/build/wechatgame/**/*
+2018-09-04T06:25:29.110Z - normal: Compiled project javascript file successfully
+2018-09-04T06:25:29.111Z - normal: Start building assets
+2018-09-04T06:25:29.111Z - normal: Start spawn build-worker
+2018-09-04T06:25:29.853Z - normal: Finish spawn build-worker
+2018-09-04T06:25:29.853Z - normal: Start init build-worker
+2018-09-04T06:25:31.960Z - normal: 1.9.3
+2018-09-04T06:25:32.288Z - normal: Finish init build-worker
+2018-09-04T06:25:32.288Z - normal: Start build-assets in worker
+2018-09-04T06:25:33.012Z - warn: The referenced asset used in "db://assets/resources/ui/key_countdown.prefab" is not found, it may have been deleted. Detailed information:
+Used by "Array"
+uuid: "5233d8f0-d161-4483-ab55-49f6849989c2"
+2018-09-04T06:25:34.053Z - normal: Finish build-assets in worker
+2018-09-04T06:25:34.064Z - normal: Finish building assets
+2018-09-04T06:25:34.101Z - normal: Start building raw assets
+2018-09-04T06:25:34.102Z - normal: Start building plugin scripts
+2018-09-04T06:25:36.380Z - normal: Finish building plugin scripts
+2018-09-04T06:25:36.622Z - normal: Finish building raw assets
+2018-09-04T06:25:36.635Z - normal: Generating main.js from /Applications/CocosCreator1.9.3.app/Contents/Resources/static/build-templates/shares/main.js
+2018-09-04T06:25:38.237Z - normal: Built to "/Users/mac/MatchVsGithub/ShaoLinTemple/ShaoLinTemple/build/wechatgame" successfully
+2018-09-04T06:25:44.245Z - warn: 找不到微信开发程序版本信息路径 [/Applications/wechatwebdevtools.app/Contents/Resources/app.nw/package.json]。
+2018-09-04T06:25:44.246Z - warn: 微信开发程序版本过低，不能享用所有功能，请尽快升级。
+2018-09-04T06:25:44.664Z - normal: Initializing...
+
+2018-09-04T06:25:44.670Z - normal: idePortFile: /Users/mac/Library/Application Support/微信web开发者工具/Default/.ide
+
+2018-09-04T06:25:44.688Z - normal: IDE server has started, listening on http://127.0.0.1:10611
+initialization finished
+
+2018-09-04T06:25:44.986Z - normal: open IDE success
+
+2018-09-04T06:30:53.516Z - normal: Start building with options : {
+  "androidStudio": true,
+  "apiLevel": "",
+  "appABIs": [],
+  "appKey": "",
+  "appSecret": "",
+  "buildPath": "/Users/mac/MatchVsGithub/ShaoLinTemple/ShaoLinTemple/build",
+  "debug": false,
+  "dest": "/Users/mac/MatchVsGithub/ShaoLinTemple/ShaoLinTemple/build/wechatgame",
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [],
+  "fb-instant-games": {},
+  "includeAnySDK": false,
+  "includeEruda": false,
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "jailbreakPlatform": false,
+  "md5Cache": true,
+  "mergeStartScene": false,
+  "oauthLoginServer": "",
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.DuckHunt",
+  "platform": "wechatgame",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "privateKey": "",
+  "qqplay": {
+    "REMOTE_SERVER_ROOT": "",
+    "orientation": "portrait"
+  },
+  "renderMode": "0",
+  "scenes": [
+    "79146b76-f001-46c3-9f85-5e013f21b436",
+    "117c424d-e9a8-4789-bdd9-05fb745695e1"
+  ],
+  "sourceMaps": false,
+  "startScene": "79146b76-f001-46c3-9f85-5e013f21b436",
+  "template": "link",
+  "title": "temple",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "portrait",
+  "wechatgame": {
+    "REMOTE_SERVER_ROOT": "https://data.tianziyou.com/matchvsGamesRes/shaolintemple",
+    "appid": "wx793199d0ca521154",
+    "orientation": "portrait"
+  },
+  "xxteaKey": "a15e5bec-8ac1-4f",
+  "zipCompressJs": true,
+  "project": "/Users/mac/MatchVsGithub/ShaoLinTemple/ShaoLinTemple",
+  "projectName": "temple",
+  "debugBuildWorker": false
+}
+2018-09-04T06:30:53.530Z - normal: Building /Users/mac/MatchVsGithub/ShaoLinTemple/ShaoLinTemple
+2018-09-04T06:30:53.531Z - normal: Destination /Users/mac/MatchVsGithub/ShaoLinTemple/ShaoLinTemple/build/wechatgame
+2018-09-04T06:30:53.532Z - normal: Delete /Users/mac/MatchVsGithub/ShaoLinTemple/ShaoLinTemple/build/wechatgame/**/*
+2018-09-04T06:31:07.303Z - normal: Compiled project javascript file successfully
+2018-09-04T06:31:07.303Z - normal: Start building assets
+2018-09-04T06:31:07.303Z - normal: Start spawn build-worker
+2018-09-04T06:31:08.209Z - normal: Finish spawn build-worker
+2018-09-04T06:31:08.209Z - normal: Start init build-worker
+2018-09-04T06:31:11.123Z - normal: 1.9.3
+2018-09-04T06:31:11.537Z - normal: Finish init build-worker
+2018-09-04T06:31:11.537Z - normal: Start build-assets in worker
+2018-09-04T06:31:13.049Z - warn: The referenced asset used in "db://assets/resources/ui/key_countdown.prefab" is not found, it may have been deleted. Detailed information:
+Used by "Array"
+uuid: "5233d8f0-d161-4483-ab55-49f6849989c2"
+2018-09-04T06:31:14.323Z - normal: Finish build-assets in worker
+2018-09-04T06:31:14.328Z - normal: Finish building assets
+2018-09-04T06:31:14.369Z - normal: Start building raw assets
+2018-09-04T06:31:14.370Z - normal: Start building plugin scripts
+2018-09-04T06:31:16.955Z - normal: Finish building plugin scripts
+2018-09-04T06:31:17.131Z - normal: Finish building raw assets
+2018-09-04T06:31:17.141Z - normal: Generating main.js from /Applications/CocosCreator1.9.3.app/Contents/Resources/static/build-templates/shares/main.js
+2018-09-04T06:31:18.785Z - normal: Built to "/Users/mac/MatchVsGithub/ShaoLinTemple/ShaoLinTemple/build/wechatgame" successfully
+2018-09-04T06:32:45.988Z - warn: 找不到微信开发程序版本信息路径 [/Applications/wechatwebdevtools.app/Contents/Resources/app.nw/package.json]。
+2018-09-04T06:32:45.990Z - warn: 微信开发程序版本过低，不能享用所有功能，请尽快升级。
+2018-09-04T06:32:46.437Z - normal: Initializing...
+
+2018-09-04T06:32:46.442Z - normal: idePortFile: /Users/mac/Library/Application Support/微信web开发者工具/Default/.ide
+
+2018-09-04T06:32:46.465Z - normal: IDE server has started, listening on http://127.0.0.1:10611
+
+2018-09-04T06:32:46.465Z - normal: initialization finished
+
+2018-09-04T06:32:46.861Z - normal: open IDE success
+
+2018-09-04T06:38:18.030Z - normal: Start building with options : {
+  "androidStudio": true,
+  "apiLevel": "",
+  "appABIs": [],
+  "appKey": "",
+  "appSecret": "",
+  "buildPath": "/Users/mac/MatchVsGithub/ShaoLinTemple/ShaoLinTemple/build",
+  "debug": false,
+  "dest": "/Users/mac/MatchVsGithub/ShaoLinTemple/ShaoLinTemple/build/wechatgame",
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [],
+  "fb-instant-games": {},
+  "includeAnySDK": false,
+  "includeEruda": false,
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "jailbreakPlatform": false,
+  "md5Cache": true,
+  "mergeStartScene": false,
+  "oauthLoginServer": "",
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.DuckHunt",
+  "platform": "wechatgame",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "privateKey": "",
+  "qqplay": {
+    "REMOTE_SERVER_ROOT": "",
+    "orientation": "portrait"
+  },
+  "renderMode": "0",
+  "scenes": [
+    "79146b76-f001-46c3-9f85-5e013f21b436",
+    "117c424d-e9a8-4789-bdd9-05fb745695e1"
+  ],
+  "sourceMaps": false,
+  "startScene": "79146b76-f001-46c3-9f85-5e013f21b436",
+  "template": "link",
+  "title": "temple",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "portrait",
+  "wechatgame": {
+    "REMOTE_SERVER_ROOT": "https://data.tianziyou.com/matchvsGamesRes/shaolintemple",
+    "appid": "wx793199d0ca521154",
+    "orientation": "portrait"
+  },
+  "xxteaKey": "a15e5bec-8ac1-4f",
+  "zipCompressJs": true,
+  "project": "/Users/mac/MatchVsGithub/ShaoLinTemple/ShaoLinTemple",
+  "projectName": "temple",
+  "debugBuildWorker": false
+}
+2018-09-04T06:38:18.048Z - normal: Building /Users/mac/MatchVsGithub/ShaoLinTemple/ShaoLinTemple
+2018-09-04T06:38:18.048Z - normal: Destination /Users/mac/MatchVsGithub/ShaoLinTemple/ShaoLinTemple/build/wechatgame
+2018-09-04T06:38:18.051Z - normal: Delete /Users/mac/MatchVsGithub/ShaoLinTemple/ShaoLinTemple/build/wechatgame/**/*
+2018-09-04T06:38:29.753Z - normal: Compiled project javascript file successfully
+2018-09-04T06:38:29.753Z - normal: Start building assets
+2018-09-04T06:38:29.754Z - normal: Start spawn build-worker
+2018-09-04T06:38:30.435Z - normal: Finish spawn build-worker
+2018-09-04T06:38:30.436Z - normal: Start init build-worker
+2018-09-04T06:38:32.557Z - normal: 1.9.3
+2018-09-04T06:38:32.921Z - normal: Finish init build-worker
+2018-09-04T06:38:32.922Z - normal: Start build-assets in worker
+2018-09-04T06:38:33.679Z - warn: The referenced asset used in "db://assets/resources/ui/key_countdown.prefab" is not found, it may have been deleted. Detailed information:
+Used by "Array"
+uuid: "5233d8f0-d161-4483-ab55-49f6849989c2"
+2018-09-04T06:38:34.415Z - normal: Finish build-assets in worker
+2018-09-04T06:38:34.428Z - normal: Finish building assets
+2018-09-04T06:38:34.460Z - normal: Start building raw assets
+2018-09-04T06:38:34.461Z - normal: Start building plugin scripts
+2018-09-04T06:38:36.343Z - normal: Finish building plugin scripts
+2018-09-04T06:38:36.498Z - normal: Finish building raw assets
+2018-09-04T06:38:36.503Z - normal: Generating main.js from /Applications/CocosCreator1.9.3.app/Contents/Resources/static/build-templates/shares/main.js
+2018-09-04T06:38:37.705Z - normal: Built to "/Users/mac/MatchVsGithub/ShaoLinTemple/ShaoLinTemple/build/wechatgame" successfully
+2018-09-04T06:38:41.340Z - warn: 找不到微信开发程序版本信息路径 [/Applications/wechatwebdevtools.app/Contents/Resources/app.nw/package.json]。
+2018-09-04T06:38:41.340Z - warn: 微信开发程序版本过低，不能享用所有功能，请尽快升级。
+2018-09-04T06:38:41.783Z - normal: Initializing...
+
+2018-09-04T06:38:41.789Z - normal: idePortFile: /Users/mac/Library/Application Support/微信web开发者工具/Default/.ide
+
+2018-09-04T06:38:41.811Z - normal: IDE server has started, listening on http://127.0.0.1:10611
+initialization finished
+
+2018-09-04T06:38:44.460Z - normal: open IDE success
+
+2018-09-04T06:38:56.827Z - normal: Start building with options : {
+  "androidStudio": true,
+  "apiLevel": "",
+  "appABIs": [],
+  "appKey": "",
+  "appSecret": "",
+  "buildPath": "/Users/mac/MatchVsGithub/ShaoLinTemple/ShaoLinTemple/build",
+  "debug": false,
+  "dest": "/Users/mac/MatchVsGithub/ShaoLinTemple/ShaoLinTemple/build/wechatgame",
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [],
+  "fb-instant-games": {},
+  "includeAnySDK": false,
+  "includeEruda": false,
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "jailbreakPlatform": false,
+  "md5Cache": true,
+  "mergeStartScene": false,
+  "oauthLoginServer": "",
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.DuckHunt",
+  "platform": "wechatgame",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "privateKey": "",
+  "qqplay": {
+    "REMOTE_SERVER_ROOT": "",
+    "orientation": "portrait"
+  },
+  "renderMode": "0",
+  "scenes": [
+    "79146b76-f001-46c3-9f85-5e013f21b436",
+    "117c424d-e9a8-4789-bdd9-05fb745695e1"
+  ],
+  "sourceMaps": false,
+  "startScene": "79146b76-f001-46c3-9f85-5e013f21b436",
+  "template": "link",
+  "title": "temple",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "portrait",
+  "wechatgame": {
+    "REMOTE_SERVER_ROOT": "https://data.tianziyou.com/matchvsGamesRes/shaolintemple",
+    "appid": "wx793199d0ca521154",
+    "orientation": "portrait"
+  },
+  "xxteaKey": "a15e5bec-8ac1-4f",
+  "zipCompressJs": true,
+  "project": "/Users/mac/MatchVsGithub/ShaoLinTemple/ShaoLinTemple",
+  "projectName": "temple",
+  "debugBuildWorker": false
+}
+2018-09-04T06:38:56.836Z - normal: Building /Users/mac/MatchVsGithub/ShaoLinTemple/ShaoLinTemple
+2018-09-04T06:38:56.837Z - normal: Destination /Users/mac/MatchVsGithub/ShaoLinTemple/ShaoLinTemple/build/wechatgame
+2018-09-04T06:38:56.838Z - normal: Delete /Users/mac/MatchVsGithub/ShaoLinTemple/ShaoLinTemple/build/wechatgame/**/*
+2018-09-04T06:39:06.522Z - normal: Compiled project javascript file successfully
+2018-09-04T06:39:06.522Z - normal: Start building assets
+2018-09-04T06:39:06.522Z - normal: Start spawn build-worker
+2018-09-04T06:39:07.354Z - normal: Finish spawn build-worker
+2018-09-04T06:39:07.356Z - normal: Start init build-worker
+2018-09-04T06:39:09.655Z - normal: 1.9.3
+2018-09-04T06:39:10.028Z - normal: Finish init build-worker
+2018-09-04T06:39:10.028Z - normal: Start build-assets in worker
+2018-09-04T06:39:10.725Z - warn: The referenced asset used in "db://assets/resources/ui/key_countdown.prefab" is not found, it may have been deleted. Detailed information:
+Used by "Array"
+uuid: "5233d8f0-d161-4483-ab55-49f6849989c2"
+2018-09-04T06:39:11.470Z - normal: Finish build-assets in worker
+2018-09-04T06:39:11.473Z - normal: Finish building assets
+2018-09-04T06:39:11.510Z - normal: Start building raw assets
+2018-09-04T06:39:11.510Z - normal: Start building plugin scripts
+2018-09-04T06:39:13.389Z - normal: Finish building plugin scripts
+2018-09-04T06:39:13.528Z - normal: Finish building raw assets
+2018-09-04T06:39:13.540Z - normal: Generating main.js from /Applications/CocosCreator1.9.3.app/Contents/Resources/static/build-templates/shares/main.js
+2018-09-04T06:39:14.820Z - normal: Built to "/Users/mac/MatchVsGithub/ShaoLinTemple/ShaoLinTemple/build/wechatgame" successfully
+2018-09-04T06:39:16.012Z - warn: 找不到微信开发程序版本信息路径 [/Applications/wechatwebdevtools.app/Contents/Resources/app.nw/package.json]。
+2018-09-04T06:39:16.012Z - warn: 微信开发程序版本过低，不能享用所有功能，请尽快升级。
+2018-09-04T06:39:16.414Z - normal: Initializing...
+
+2018-09-04T06:39:16.420Z - normal: idePortFile: /Users/mac/Library/Application Support/微信web开发者工具/Default/.ide
+
+2018-09-04T06:39:16.440Z - normal: IDE server has started, listening on http://127.0.0.1:10611
+initialization finished
+
+2018-09-04T06:39:16.642Z - normal: open IDE success
+
+2018-09-04T06:39:26.818Z - warn: 找不到微信开发程序版本信息路径 [/Applications/wechatwebdevtools.app/Contents/Resources/app.nw/package.json]。
+2018-09-04T06:39:26.819Z - warn: 微信开发程序版本过低，不能享用所有功能，请尽快升级。
+2018-09-04T06:39:27.137Z - normal: Initializing...
+
+2018-09-04T06:39:27.143Z - normal: idePortFile: /Users/mac/Library/Application Support/微信web开发者工具/Default/.ide
+
+2018-09-04T06:39:27.162Z - normal: IDE server has started, listening on http://127.0.0.1:10611
+
+2018-09-04T06:39:27.163Z - normal: initialization finished
+
+2018-09-04T06:39:27.403Z - normal: open IDE success
+
+2018-09-04T06:41:16.348Z - normal: Start building with options : {
+  "androidStudio": true,
+  "apiLevel": "",
+  "appABIs": [],
+  "appKey": "",
+  "appSecret": "",
+  "buildPath": "/Users/mac/MatchVsGithub/ShaoLinTemple/ShaoLinTemple/build",
+  "debug": false,
+  "dest": "/Users/mac/MatchVsGithub/ShaoLinTemple/ShaoLinTemple/build/wechatgame",
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [],
+  "fb-instant-games": {},
+  "includeAnySDK": false,
+  "includeEruda": false,
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "jailbreakPlatform": false,
+  "md5Cache": true,
+  "mergeStartScene": false,
+  "oauthLoginServer": "",
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.DuckHunt",
+  "platform": "wechatgame",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "privateKey": "",
+  "qqplay": {
+    "REMOTE_SERVER_ROOT": "",
+    "orientation": "portrait"
+  },
+  "renderMode": "0",
+  "scenes": [
+    "79146b76-f001-46c3-9f85-5e013f21b436",
+    "117c424d-e9a8-4789-bdd9-05fb745695e1"
+  ],
+  "sourceMaps": false,
+  "startScene": "79146b76-f001-46c3-9f85-5e013f21b436",
+  "template": "link",
+  "title": "temple",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "portrait",
+  "wechatgame": {
+    "REMOTE_SERVER_ROOT": "https://data.tianziyou.com/matchvsGamesRes/shaolintemple",
+    "appid": "wx793199d0ca521154",
+    "orientation": "portrait"
+  },
+  "xxteaKey": "a15e5bec-8ac1-4f",
+  "zipCompressJs": true,
+  "project": "/Users/mac/MatchVsGithub/ShaoLinTemple/ShaoLinTemple",
+  "projectName": "temple",
+  "debugBuildWorker": false
+}
+2018-09-04T06:41:16.364Z - normal: Building /Users/mac/MatchVsGithub/ShaoLinTemple/ShaoLinTemple
+2018-09-04T06:41:16.365Z - normal: Destination /Users/mac/MatchVsGithub/ShaoLinTemple/ShaoLinTemple/build/wechatgame
+2018-09-04T06:41:16.366Z - normal: Delete /Users/mac/MatchVsGithub/ShaoLinTemple/ShaoLinTemple/build/wechatgame/**/*
+2018-09-04T06:41:31.763Z - normal: Compiled project javascript file successfully
+2018-09-04T06:41:31.763Z - normal: Start building assets
+2018-09-04T06:41:31.764Z - normal: Start spawn build-worker
+2018-09-04T06:41:32.595Z - normal: Finish spawn build-worker
+2018-09-04T06:41:32.595Z - normal: Start init build-worker
+2018-09-04T06:41:34.873Z - normal: 1.9.3
+2018-09-04T06:41:35.266Z - normal: Finish init build-worker
+2018-09-04T06:41:35.266Z - normal: Start build-assets in worker
+2018-09-04T06:41:36.036Z - warn: The referenced asset used in "db://assets/resources/ui/key_countdown.prefab" is not found, it may have been deleted. Detailed information:
+Used by "Array"
+uuid: "5233d8f0-d161-4483-ab55-49f6849989c2"
+2018-09-04T06:41:36.788Z - normal: Finish build-assets in worker
+2018-09-04T06:41:36.792Z - normal: Finish building assets
+2018-09-04T06:41:36.825Z - normal: Start building raw assets
+2018-09-04T06:41:36.826Z - normal: Start building plugin scripts
+2018-09-04T06:41:38.771Z - normal: Finish building plugin scripts
+2018-09-04T06:41:39.008Z - normal: Finish building raw assets
+2018-09-04T06:41:39.012Z - normal: Generating main.js from /Applications/CocosCreator1.9.3.app/Contents/Resources/static/build-templates/shares/main.js
+2018-09-04T06:41:40.126Z - normal: Built to "/Users/mac/MatchVsGithub/ShaoLinTemple/ShaoLinTemple/build/wechatgame" successfully
+2018-09-04T06:41:53.382Z - warn: 找不到微信开发程序版本信息路径 [/Applications/wechatwebdevtools.app/Contents/Resources/app.nw/package.json]。
+2018-09-04T06:41:53.384Z - warn: 微信开发程序版本过低，不能享用所有功能，请尽快升级。
+2018-09-04T06:41:53.798Z - normal: Initializing...
+
+2018-09-04T06:41:53.803Z - normal: idePortFile: /Users/mac/Library/Application Support/微信web开发者工具/Default/.ide
+
+2018-09-04T06:41:53.826Z - normal: IDE server has started, listening on http://127.0.0.1:10611
+
+2018-09-04T06:41:53.827Z - normal: initialization finished
+
+2018-09-04T06:41:54.084Z - normal: open IDE success
+
