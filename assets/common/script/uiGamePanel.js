@@ -371,7 +371,9 @@ cc.Class({
         this.besomNode.active = true;
         this.besomAnim.play(this.besomAnimName);
         setTimeout(function() {
-            this.besomNode.active = false;
+            if(this.besomNode) {
+                this.besomNode.active = false;
+            }
         }.bind(this), 1000);
     },
     appearBrother() {
@@ -381,8 +383,10 @@ cc.Class({
         this.brotherAudio.play();
         setTimeout(function() {
             this.isPersonAppear = false;
-            var anim = this.brotherAnim.play(this.brotherAnimName);
-            anim.wrapMode = cc.WrapMode.Reverse;
+            if(this.brotherAnim) {
+                var anim = this.brotherAnim.play(this.brotherAnimName);
+                anim.wrapMode = cc.WrapMode.Reverse;
+            }
         }.bind(this), 2000)
     },
     halfOpenDoor() {
