@@ -245,18 +245,31 @@ cc.Class({
         score.init(this.reduceBlueNumPool);
         this.updateSelfScore(-2);
     },
-    roleAlreadyAppear(event) {
-        if (event.detail.name === this.openDoorAnimName || event.detail.name === this.brotherAnimName) {
-            if (event.detail.wrapMode === 1) {
-                this.isPersonAppear = true;
-            } else {
+
+    roleAlreadyAppear(event, state) {
+        if (event && event.detail) {
+            if (event.detail.name === this.openDoorAnimName || event.detail.name === this.brotherAnimName) {
+                if (event.detail.wrapMode === 1) {
+                    this.isPersonAppear = true;
+                } else {
+                    this.isNeedTiming = true;
+                }
+            }
+            if (event.detail.name === this.halfDoorAnimName || event.detail.name === this.besomAnimName) {
+                this.isNeedTiming = true;
+            }
+        } else if (state) {
+            if (state.name === this.openDoorAnimName || state.name === this.brotherAnimName) {
+                if (state.wrapMode === 1) {
+                    this.isPersonAppear = true;
+                } else {
+                    this.isNeedTiming = true;
+                }
+            }
+            if (state.name === this.halfDoorAnimName || state.name === this.besomAnimName) {
                 this.isNeedTiming = true;
             }
         }
-        if (event.detail.name === this.halfDoorAnimName || event.detail.name === this.besomAnimName) {
-            this.isNeedTiming = true;
-        }
-
 
     },
     standUpEvent(param) {
@@ -371,7 +384,7 @@ cc.Class({
         this.besomNode.active = true;
         this.besomAnim.play(this.besomAnimName);
         setTimeout(function() {
-            if(this.besomNode) {
+            if (this.besomNode) {
                 this.besomNode.active = false;
             }
         }.bind(this), 1000);
@@ -383,7 +396,7 @@ cc.Class({
         this.brotherAudio.play();
         setTimeout(function() {
             this.isPersonAppear = false;
-            if(this.brotherAnim) {
+            if (this.brotherAnim) {
                 var anim = this.brotherAnim.play(this.brotherAnimName);
                 anim.wrapMode = cc.WrapMode.Reverse;
             }
@@ -440,9 +453,15 @@ cc.Class({
 
     onDestroy() {
         clearInterval(this.timer);
-        this.brotherAnim.off('finished', this.roleAlreadyAppear, this);
-        this.teacherAnim.off('finished', this.roleAlreadyAppear, this);
-        this.besomAnim.off('finished', this.roleAlreadyAppear, this);
+        if (this.brotherAnim.node) {
+            this.brotherAnim.off('finished', this.roleAlreadyAppear, this);
+        }
+        if (this.teacherAnim.node) {
+            this.teacherAnim.off('finished', this.roleAlreadyAppear, this);
+        }
+        if (this.besomAnim.node) {
+            this.besomAnim.off('finished', this.roleAlreadyAppear, this);
+        }
         clientEvent.off(clientEvent.eventType.appearBesom, this.appearBesom, this);
         clientEvent.off(clientEvent.eventType.appearBrother, this.appearBrother, this);
         clientEvent.off(clientEvent.eventType.appearTeacher, this.appearTeacher, this);

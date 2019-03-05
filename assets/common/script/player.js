@@ -66,7 +66,9 @@ cc.Class({
         this.playerState = Player_State.none;
     },
     onDestroy() {
-        this.animation.off('finished', this._finished, this);
+        if(this.animation.node) {
+            this.animation.off('finished', this._finished, this);
+        }
 
         clientEvent.off(clientEvent.eventType.hitEvent, this.hitEvent, this);
         clientEvent.off(clientEvent.eventType.standUpEventMed, this.standUpEvent, this);
