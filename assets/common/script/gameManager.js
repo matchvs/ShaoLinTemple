@@ -98,7 +98,8 @@ cc.Class({
         mvs.response.sendEventNotify = this.sendEventNotify.bind(this);
         mvs.response.networkStateNotify = this.networkStateNotify.bind(this);
 
-        var result = mvs.engine.init(mvs.response, GLB.channel, GLB.platform, GLB.gameId);
+        var result = mvs.engine.init(mvs.response, GLB.channel, GLB.platform, GLB.gameId,
+            GLB.appKey,GLB.gameVersion);
         if (result !== 0) {
             console.log('初始化失败,错误码:' + result);
         }
@@ -271,9 +272,7 @@ cc.Class({
 
         var result = mvs.engine.login(
             userInfo.id, userInfo.token,
-            GLB.gameId, GLB.gameVersion,
-            GLB.appKey, GLB.secret,
-            deviceId, gatewayId
+            deviceId
         );
         if (result !== 0) {
             console.log('登录失败,错误码:' + result);

@@ -16,7 +16,7 @@ cc.Class({
     },
 
     sure() {
-        mvs.engine.leaveRoom();
+        mvs.engine.leaveRoom("");
         var gamePanel = uiFunc.findUI("uiGamePanel");
         if (gamePanel) {
             uiFunc.closeUI("uiGamePanel");
